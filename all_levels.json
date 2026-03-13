@@ -1,0 +1,739 @@
+{
+  "levels": [
+    {
+      "levelId": 1,
+      "box": {
+        "laneA": {
+          "display": [0, 0, 0, 0],
+          "actual": [0, 0, 0, 0]
+        },
+        "laneB": null,
+        "laneC": null
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [0],
+          "actual": [0]
+        },
+        "spawnB": null,
+        "spawnC": null,
+        "spawnD": null
+      },
+      "mechanics": {
+        "hiddenColor": true
+      }
+    },
+    {
+      "levelId": 2,
+      "box": {
+        "laneA": {
+          "display": [0, 0, 0, 0, 2, 2, 2, 2],
+          "actual": [0, 0, 0, 0, 2, 2, 2, 2]
+        },
+        "laneB": null,
+        "laneC": null
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [0, 11],
+          "actual": [0, 2]
+        },
+        "spawnB": null,
+        "spawnC": null,
+        "spawnD": null
+      },
+      "mechanics": {
+        "hiddenColor": true
+      }
+    },
+    {
+      "levelId": 3,
+      "box": {
+        "laneA": {
+          "display": [0, 0, 2, 2, 1, 1],
+          "actual": [0, 0, 2, 2, 1, 1]
+        },
+        "laneB": {
+          "display": [0, 0, 2, 2, 1, 1],
+          "actual": [0, 0, 2, 2, 1, 1]
+        },
+        "laneC": null
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [1, 0, 2],
+          "actual": [1, 0, 2]
+        },
+        "spawnB": null,
+        "spawnC": null,
+        "spawnD": null
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+    {
+      "levelId": 4,
+      "box": {
+        "laneA": {
+          "display": [0, 0, 3, 3, 1, 1, 2, 2, 3, 3, 0, 0],
+          "actual": [0, 0, 3, 3, 1, 1, 2, 2, 3, 3, 0, 0]
+        },
+        "laneB": {
+          "display": [0, 0, 3, 3, 1, 1, 2, 2, 3, 3, 0, 0],
+          "actual": [0, 0, 3, 3, 1, 1, 2, 2, 3, 3, 0, 0]
+        },
+        "laneC": null
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [3, 1, 2, 0, 3, 0],
+          "actual": [3, 1, 2, 0, 3, 0]
+        },
+        "spawnB": null,
+        "spawnC": null,
+        "spawnD": null
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+    {
+      "levelId": 5,
+      "box": {
+        "laneA": {
+          "display": [0, 0, 2, 2, 3, 3, 1, 1, 0, 0, 1, 1, 3, 3, 2, 2],
+          "actual": [0, 0, 2, 2, 3, 3, 1, 1, 0, 0, 1, 1, 3, 3, 2, 2]
+        },
+        "laneB": {
+          "display": [0, 0, 3, 3, 1, 1, 1, 1, 0, 0, 2, 2, 2, 2, 3, 3],
+          "actual": [0, 0, 3, 3, 1, 1, 1, 1, 0, 0, 2, 2, 2, 2, 3, 3]
+        },
+        "laneC": null
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [3, 1, 3, 2],
+          "actual": [3, 1, 3, 2]
+        },
+        "spawnB": null,
+        "spawnC": {
+          "display": [1, 0, 2, 0],
+          "actual": [1, 0, 2, 0]
+        },
+        "spawnD": null
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+    {
+      "levelId": 6,
+      "box": {
+        "laneA": {
+          "display": [0, 0, 2, 2, 1, 1, 3, 3, 0, 0, 1, 1, 3, 3, 2, 2],
+          "actual": [0, 0, 2, 2, 1, 1, 3, 3, 0, 0, 1, 1, 3, 3, 2, 2]
+        },
+        "laneB": {
+          "display": [0, 0, 3, 3, 1, 1, 1, 1, 2, 2, 0, 0, 3, 3, 2, 2],
+          "actual": [0, 0, 3, 3, 1, 1, 1, 1, 2, 2, 0, 0, 3, 3, 2, 2]
+        },
+        "laneC": null
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [1, 2, 3, 1],
+          "actual": [1, 2, 3, 1]
+        },
+        "spawnB": null,
+        "spawnC": {
+          "display": [3, 0, 2, 0],
+          "actual": [3, 0, 2, 0]
+        },
+        "spawnD": null
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+    {
+      "levelId": 7,
+      "box": {
+        "laneA": {
+          "display": [
+            0, 0, 2, 2, 3, 3, 1, 1, 0, 0, 1, 1, 3, 3, 2, 2, 1, 1, 3, 3
+          ],
+          "actual": [0, 0, 2, 2, 3, 3, 1, 1, 0, 0, 1, 1, 3, 3, 2, 2, 1, 1, 3, 3]
+        },
+        "laneB": {
+          "display": [
+            0, 0, 3, 3, 1, 1, 1, 1, 2, 2, 0, 0, 3, 3, 2, 2, 1, 1, 3, 3
+          ],
+          "actual": [0, 0, 3, 3, 1, 1, 1, 1, 2, 2, 0, 0, 3, 3, 2, 2, 1, 1, 3, 3]
+        },
+        "laneC": null
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [3, 0, 1, 2, 3],
+          "actual": [3, 0, 1, 2, 3]
+        },
+        "spawnB": null,
+        "spawnC": {
+          "display": [1, 2, 3, 0, 1],
+          "actual": [1, 2, 3, 0, 1]
+        },
+        "spawnD": null
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+    {
+      "levelId": 8,
+      "box": {
+        "laneA": {
+          "display": [
+            0, 0, 2, 2, 4, 4, 3, 3, 1, 1, 0, 0, 3, 3, 4, 4, 2, 2, 1, 1
+          ],
+          "actual": [0, 0, 2, 2, 4, 4, 3, 3, 1, 1, 0, 0, 3, 3, 4, 4, 2, 2, 1, 1]
+        },
+        "laneB": {
+          "display": [
+            0, 0, 3, 3, 2, 2, 1, 1, 4, 4, 0, 0, 1, 1, 3, 3, 4, 4, 2, 2
+          ],
+          "actual": [0, 0, 3, 3, 2, 2, 1, 1, 4, 4, 0, 0, 1, 1, 3, 3, 4, 4, 2, 2]
+        },
+        "laneC": null
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [4, 1, 0, 3, 2],
+          "actual": [4, 1, 0, 3, 2]
+        },
+        "spawnB": null,
+        "spawnC": {
+          "display": [3, 2, 4, 1, 0],
+          "actual": [3, 2, 4, 1, 0]
+        },
+        "spawnD": null
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+    {
+      "levelId": 9,
+      "box": {
+        "laneA": {
+          "display": [
+            0, 0, 2, 2, 4, 4, 3, 3, 1, 1, 0, 0, 3, 3, 4, 4, 2, 2, 1, 1, 4, 4, 3,
+            3
+          ],
+          "actual": [
+            0, 0, 2, 2, 4, 4, 3, 3, 1, 1, 0, 0, 3, 3, 4, 4, 2, 2, 1, 1, 4, 4, 3,
+            3
+          ]
+        },
+        "laneB": {
+          "display": [
+            0, 0, 3, 3, 4, 4, 1, 1, 2, 2, 0, 0, 4, 4, 3, 3, 1, 1, 2, 2, 4, 4, 3,
+            3
+          ],
+          "actual": [
+            0, 0, 3, 3, 4, 4, 1, 1, 2, 2, 0, 0, 4, 4, 3, 3, 1, 1, 2, 2, 4, 4, 3,
+            3
+          ]
+        },
+        "laneC": null
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [4, 1, 0, 3, 2, 4],
+          "actual": [4, 1, 0, 3, 2, 4]
+        },
+        "spawnB": null,
+        "spawnC": {
+          "display": [3, 2, 4, 1, 0, 3],
+          "actual": [3, 2, 4, 1, 0, 3]
+        },
+        "spawnD": null
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+    {
+      "levelId": 10,
+      "box": {
+        "laneA": {
+          "display": [3, 3, 3, 3, 0, 0, 0, 0, 2, 2, 2, 2, 1, 1, 1, 1],
+          "actual": [3, 3, 3, 3, 0, 0, 0, 0, 2, 2, 2, 2, 1, 1, 1, 1]
+        },
+        "laneB": {
+          "display": [4, 4, 4, 4, 3, 3, 3, 3, 0, 0, 0, 0, 2, 2, 2, 2],
+          "actual": [4, 4, 4, 4, 3, 3, 3, 3, 0, 0, 0, 0, 2, 2, 2, 2]
+        },
+        "laneC": null
+      },
+
+      "trucks": {
+        "capacity": 4,
+
+        "spawnA": {
+          "display": [3, 1, 4, 0],
+          "actual": [3, 2, 4, 0]
+        },
+
+        "spawnB": null,
+
+        "spawnC": {
+          "display": [2, 1, 3, 4],
+          "actual": [0, 1, 3, 2]
+        },
+
+        "spawnD": null
+      },
+
+      "mechanics": {
+        "hiddenColor": true
+      }
+    },
+    {
+      "levelId": 11,
+      "box": {
+        "laneA": {
+          "display": [0, 0, 0, 0, 3, 3, 1, 1, 1, 1, 2, 2, 4, 4, 5, 5],
+          "actual": [0, 0, 0, 0, 3, 3, 1, 1, 1, 1, 2, 2, 4, 4, 5, 5]
+        },
+        "laneB": {
+          "display": [0, 0, 3, 3, 3, 3, 1, 1, 2, 2, 2, 2, 4, 4, 5, 5],
+          "actual": [0, 0, 3, 3, 3, 3, 1, 1, 2, 2, 2, 2, 4, 4, 5, 5]
+        },
+        "laneC": {
+          "display": [0, 0, 3, 3, 1, 1, 2, 2, 4, 4, 4, 4, 5, 5, 5, 5],
+          "actual": [0, 0, 3, 3, 1, 1, 2, 2, 4, 4, 4, 4, 5, 5, 5, 5]
+        }
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [3, 1, 2, 4, 0, 3, 1, 4],
+          "actual": [3, 1, 2, 4, 0, 3, 1, 4]
+        },
+        "spawnB": null,
+        "spawnC": {
+          "display": [0, 5, 2, 5],
+          "actual": [0, 5, 2, 5]
+        },
+        "spawnD": null
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+    {
+      "levelId": 12,
+      "box": {
+        "laneA": {
+          "display": [0, 0, 3, 3, 4, 4, 2, 2, 5, 5, 1, 1, 0, 0, 3, 3],
+          "actual": [0, 0, 3, 3, 4, 4, 2, 2, 5, 5, 1, 1, 0, 0, 3, 3]
+        },
+        "laneB": {
+          "display": [1, 1, 4, 4, 2, 2, 5, 5, 3, 3, 0, 0, 1, 1, 4, 4],
+          "actual": [1, 1, 4, 4, 2, 2, 5, 5, 3, 3, 0, 0, 1, 1, 4, 4]
+        },
+        "laneC": {
+          "display": [2, 2, 5, 5, 1, 1, 3, 3, 0, 0, 4, 4, 2, 2, 5, 5],
+          "actual": [2, 2, 5, 5, 1, 1, 3, 3, 0, 0, 4, 4, 2, 2, 5, 5]
+        }
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [4, 5, 3, 0],
+          "actual": [4, 5, 3, 0]
+        },
+        "spawnB": null,
+        "spawnC": {
+          "display": [2, 1, 5, 4],
+          "actual": [2, 1, 5, 4]
+        },
+        "spawnD": {
+          "display": [3, 0, 2, 1],
+          "actual": [3, 0, 2, 1]
+        }
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+    {
+      "levelId": 13,
+      "box": {
+        "laneA": {
+          "display": [0, 0, 3, 3, 2, 2, 4, 4, 5, 5, 1, 1, 0, 0, 3, 3],
+          "actual": [0, 0, 3, 3, 2, 2, 4, 4, 5, 5, 1, 1, 0, 0, 3, 3]
+        },
+        "laneB": {
+          "display": [2, 2, 1, 1, 4, 4, 5, 5, 0, 0, 3, 3, 2, 2, 1, 1],
+          "actual": [2, 2, 1, 1, 4, 4, 5, 5, 0, 0, 3, 3, 2, 2, 1, 1]
+        },
+        "laneC": {
+          "display": [4, 4, 5, 5, 0, 0, 3, 3, 2, 2, 1, 1, 4, 4, 5, 5],
+          "actual": [4, 4, 5, 5, 0, 0, 3, 3, 2, 2, 1, 1, 4, 4, 5, 5]
+        }
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": null,
+        "spawnB": {
+          "display": [0, 4, 2, 3],
+          "actual": [0, 4, 2, 3]
+        },
+        "spawnC": {
+          "display": [2, 1, 4, 5],
+          "actual": [2, 1, 4, 5]
+        },
+        "spawnD": {
+          "display": [3, 5, 0, 1],
+          "actual": [3, 5, 0, 1]
+        }
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+    {
+      "levelId": 14,
+      "box": {
+        "laneA": {
+          "display": [
+            0, 0, 3, 3, 5, 5, 2, 2, 1, 1, 4, 4, 0, 0, 5, 5, 2, 2, 3, 3
+          ],
+          "actual": [0, 0, 3, 3, 5, 5, 2, 2, 1, 1, 4, 4, 0, 0, 5, 5, 2, 2, 3, 3]
+        },
+        "laneB": {
+          "display": [1, 1, 4, 4, 0, 0, 5, 5, 2, 2, 3, 3, 0, 0, 5, 5, 1, 1],
+          "actual": [1, 1, 4, 4, 0, 0, 5, 5, 2, 2, 3, 3, 0, 0, 5, 5, 1, 1]
+        },
+        "laneC": {
+          "display": [4, 4, 2, 2, 3, 3, 0, 0, 5, 5, 1, 1, 4, 4, 5, 5, 0, 0],
+          "actual": [4, 4, 2, 2, 3, 3, 0, 0, 5, 5, 1, 1, 4, 4, 5, 5, 0, 0]
+        }
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [0, 2, 3, 5, 0],
+          "actual": [0, 2, 3, 5, 0]
+        },
+        "spawnB": null,
+        "spawnC": {
+          "display": [3, 1, 0, 1, 5],
+          "actual": [3, 1, 0, 1, 5]
+        },
+        "spawnD": {
+          "display": [5, 4, 2, 4],
+          "actual": [5, 4, 2, 4]
+        }
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+    {
+      "levelId": 15,
+      "box": {
+        "laneA": {
+          "display": [
+            0, 0, 4, 4, 5, 5, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 0, 0, 1, 1, 2, 2
+          ],
+          "actual": [
+            0, 0, 4, 4, 5, 5, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 0, 0, 1, 1, 2, 2
+          ]
+        },
+        "laneB": {
+          "display": [
+            3, 3, 2, 2, 1, 1, 4, 4, 0, 0, 5, 5, 2, 2, 1, 1, 4, 4, 5, 5, 1, 1
+          ],
+          "actual": [
+            3, 3, 2, 2, 1, 1, 4, 4, 0, 0, 5, 5, 2, 2, 1, 1, 4, 4, 5, 5, 1, 1
+          ]
+        },
+        "laneC": {
+          "display": [
+            4, 4, 5, 5, 0, 0, 3, 3, 2, 2, 1, 1, 4, 4, 2, 2, 3, 3, 5, 5
+          ],
+          "actual": [4, 4, 5, 5, 0, 0, 3, 3, 2, 2, 1, 1, 4, 4, 2, 2, 3, 3, 5, 5]
+        }
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": null,
+        "spawnB": {
+          "display": [4, 5, 1, 0, 2],
+          "actual": [4, 5, 1, 0, 2]
+        },
+        "spawnC": {
+          "display": [3, 5, 4, 1, 2],
+          "actual": [3, 5, 4, 1, 2]
+        },
+        "spawnD": {
+          "display": [0, 2, 3, 5, 4, 1],
+          "actual": [0, 2, 3, 5, 4, 1]
+        }
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+    {
+      "levelId": 16,
+      "box": {
+        "laneA": {
+          "display": [
+            0, 0, 4, 4, 5, 5, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 0, 0, 1, 1, 2, 2
+          ],
+          "actual": [
+            0, 0, 4, 4, 5, 5, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 0, 0, 1, 1, 2, 2
+          ]
+        },
+        "laneB": {
+          "display": [
+            3, 3, 2, 2, 1, 1, 4, 4, 0, 0, 5, 5, 2, 2, 1, 1, 4, 4, 5, 5, 3, 3
+          ],
+          "actual": [
+            3, 3, 2, 2, 1, 1, 4, 4, 0, 0, 5, 5, 2, 2, 1, 1, 4, 4, 5, 5, 3, 3
+          ]
+        },
+        "laneC": {
+          "display": [
+            4, 4, 5, 5, 0, 0, 3, 3, 2, 2, 1, 1, 4, 4, 2, 2, 1, 1, 5, 5
+          ],
+          "actual": [4, 4, 5, 5, 0, 0, 3, 3, 2, 2, 1, 1, 4, 4, 2, 2, 1, 1, 5, 5]
+        }
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": null,
+        "spawnB": {
+          "display": [4, 5, 1, 0, 2],
+          "actual": [4, 5, 1, 0, 2]
+        },
+        "spawnC": {
+          "display": [3, 5, 4, 1, 2],
+          "actual": [3, 5, 4, 1, 2]
+        },
+        "spawnD": {
+          "display": [0, 2, 3, 5, 4, 1],
+          "actual": [0, 2, 3, 5, 4, 1]
+        }
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+    {
+      "levelId": 17,
+      "box": {
+        "laneA": {
+          "display": [
+            0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 2, 2, 3, 3
+          ],
+          "actual": [0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 2, 2, 3, 3]
+        },
+        "laneB": {
+          "display": [
+            4, 4, 0, 0, 1, 1, 2, 2, 2, 2, 3, 3, 5, 5, 4, 4, 0, 0, 1, 1, 3, 3
+          ],
+          "actual": [
+            4, 4, 0, 0, 1, 1, 2, 2, 2, 2, 3, 3, 5, 5, 4, 4, 0, 0, 1, 1, 3, 3
+          ]
+        },
+        "laneC": {
+          "display": [
+            5, 5, 0, 0, 1, 1, 2, 2, 3, 3, 3, 3, 5, 5, 0, 0, 1, 1, 2, 2, 4, 4
+          ],
+          "actual": [
+            5, 5, 0, 0, 1, 1, 2, 2, 3, 3, 3, 3, 5, 5, 0, 0, 1, 1, 2, 2, 4, 4
+          ]
+        }
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [0, 1, 2, 11, 11],
+          "actual": [0, 1, 2, 4, 3]
+        },
+        "spawnB": null,
+        "spawnC": {
+          "display": [3, 0, 1, 11, 11],
+          "actual": [3, 0, 1, 5, 2]
+        },
+        "spawnD": {
+          "display": [2, 3, 4, 11, 11, 1],
+          "actual": [2, 3, 4, 5, 0, 1]
+        }
+      },
+      "mechanics": {
+        "hiddenColor": true
+      }
+    },
+    {
+      "levelId": 18,
+      "box": {
+        "laneA": {
+          "display": [0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 0, 0, 1, 1, 2, 2],
+          "actual": [0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 0, 0, 1, 1, 2, 2]
+        },
+        "laneB": {
+          "display": [3, 3, 4, 4, 5, 5, 0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5],
+          "actual": [3, 3, 4, 4, 5, 5, 0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5]
+        },
+        "laneC": {
+          "display": [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 0, 0, 1, 1, 2, 2, 3, 3],
+          "actual": [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 0, 0, 1, 1, 2, 2, 3, 3]
+        },
+        "laneD": {
+          "display": [4, 4, 5, 5, 0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 0, 0],
+          "actual": [4, 4, 5, 5, 0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 0, 0]
+        }
+      },
+
+      "trucks": {
+        "capacity": 4,
+
+        "spawnA": {
+          "display": [0, 11, 2, 3, 11, 5],
+          "actual": [0, 1, 2, 3, 4, 5]
+        },
+
+        "spawnB": null,
+
+        "spawnC": {
+          "display": [1, 11, 3, 4, 11, 0],
+          "actual": [1, 2, 3, 4, 5, 0]
+        },
+
+        "spawnD": {
+          "display": [2, 11, 4, 5, 11, 1],
+          "actual": [2, 3, 4, 5, 0, 1]
+        }
+      },
+
+      "mechanics": {
+        "hiddenColor": true
+      }
+    },
+    {
+      "levelId": 19,
+      "box": {
+        "laneA": {
+          "display": [0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3],
+          "actual": [0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3]
+        },
+        "laneB": {
+          "display": [4, 4, 4, 4, 5, 5, 5, 5, 0, 0, 0, 0, 1, 1, 1, 1],
+          "actual": [4, 4, 4, 4, 5, 5, 5, 5, 0, 0, 0, 0, 1, 1, 1, 1]
+        },
+        "laneC": {
+          "display": [2, 2, 2, 2, 3, 3, 3, 3, 0, 0, 0, 0, 1, 1, 1, 1],
+          "actual": [2, 2, 2, 2, 3, 3, 3, 3, 0, 0, 0, 0, 1, 1, 1, 1]
+        },
+        "laneD": {
+          "display": [2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5],
+          "actual": [2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5]
+        }
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": null,
+        "spawnB": {
+          "display": [0, 4, 2, 5, 4],
+          "actual": [0, 1, 2, 3, 4]
+        },
+        "spawnC": {
+          "display": [5, 0, 1, 2, 5],
+          "actual": [5, 0, 1, 2, 3]
+        },
+        "spawnD": {
+          "display": [4, 5, 2, 1, 4, 0],
+          "actual": [4, 5, 0, 1, 2, 3]
+        }
+      },
+      "mechanics": {
+        "hiddenColor": true
+      }
+    },
+    {
+      "levelId": 20,
+      "box": {
+        "laneA": {
+          "display": [
+            0, 0, 11, 11, 2, 2, 11, 11, 4, 4, 5, 5, 0, 0, 4, 4, 2, 2, 3, 3
+          ],
+          "actual": [0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 0, 0, 4, 4, 2, 2, 3, 3]
+        },
+
+        "laneB": {
+          "display": [
+            4, 4, 11, 11, 0, 0, 11, 11, 2, 2, 3, 3, 4, 4, 0, 0, 1, 1, 0, 0
+          ],
+          "actual": [4, 4, 5, 5, 0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 0, 0, 1, 1, 0, 0]
+        },
+
+        "laneC": {
+          "display": [
+            2, 2, 11, 11, 4, 4, 11, 11, 0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5
+          ],
+          "actual": [2, 2, 3, 3, 4, 4, 5, 5, 0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5]
+        },
+
+        "laneD": {
+          "display": [
+            0, 0, 11, 11, 1, 1, 11, 11, 2, 2, 3, 3, 0, 0, 4, 4, 5, 5, 1, 1
+          ],
+          "actual": [0, 0, 4, 4, 1, 1, 5, 5, 2, 2, 3, 3, 0, 0, 4, 4, 5, 5, 1, 1]
+        }
+      },
+
+      "trucks": {
+        "capacity": 4,
+
+        "spawnA": {
+          "display": [0, 11, 2, 11, 4],
+          "actual": [0, 1, 2, 3, 4]
+        },
+
+        "spawnB": {
+          "display": [4, 11, 5, 11, 0],
+          "actual": [4, 5, 0, 1, 2]
+        },
+
+        "spawnC": {
+          "display": [2, 11, 3, 11, 5],
+          "actual": [2, 3, 4, 5, 0]
+        },
+
+        "spawnD": {
+          "display": [3, 11, 1, 11, 5],
+          "actual": [3, 0, 1, 4, 5]
+        }
+      },
+
+      "mechanics": {
+        "hiddenColor": true
+      }
+    }
+  ]
+}
