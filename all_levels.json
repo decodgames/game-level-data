@@ -2,6 +2,7 @@
   "levels": [
     {
       "levelId": 1,
+       "difficulty": "veryhard",
       "box": {
         "laneA": null,
         "laneB": null,
