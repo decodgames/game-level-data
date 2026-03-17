@@ -2,7 +2,7 @@
   "levels": [
     {
       "levelId": 1,
-      "difficulty": "hard",
+      "difficulty":"hard",
       "box": {
         "laneA": null,
         "laneB": null,
@@ -90,7 +90,7 @@
     },
     {
       "levelId": 3,
-       "difficulty": "veryhard",
+       "difficulty":"veryhard",
       "box": {
         "laneA": null,
         "laneB": {
@@ -153,7 +153,7 @@
       }
     },
     {
-      "levelId": 4, "difficulty": "hard",
+      "levelId": 4, "difficulty":"hard",
       "box": {
         "laneA": null,
         "laneB": {
