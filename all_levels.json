@@ -6381,6 +6381,7 @@
 },
     {
   "levelId": 34,
+  "difficulty":"easy",
 
   "box": {
     "laneA": {
@@ -6448,22 +6449,22 @@
     "capacity": 4,
 
     "spawnA": {
-      "display": [4,0,5,1],
+      "display": [4,11,6,11],
       "actual":  [4,5,6,9]
     },
 
     "spawnB": {
-      "display": [5,1,6,2],
+      "display": [5,11,9,4],
       "actual":  [5,6,9,4]
     },
 
     "spawnC": {
-      "display": [6,2,9,3],
+      "display": [6,11,11,5],
       "actual":  [6,9,4,5]
     },
 
     "spawnD": {
-      "display": [9,3,4,0],
+      "display": [9,11,11,11],
       "actual":  [9,4,5,6]
     }
   },
