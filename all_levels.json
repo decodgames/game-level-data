@@ -84,7 +84,7 @@
     },
     {
       "levelId": 3,
-       "difficulty":"easy",
+       "difficulty": "easy",
       "box": {
         "laneA": null,
         "laneB": {
@@ -614,7 +614,7 @@
       }
     },
     {
-      "levelId": 8,"difficulty":"easy",
+      "levelId": 8, "difficulty": "easy",
       "box": {
         "laneA": null,
         "laneB": {
@@ -752,7 +752,7 @@
       }
     },
     {
-      "levelId": 9,"difficulty":"hard",
+      "levelId": 9, "difficulty": "hard",
       "box": {
         "laneA": null,
         "laneB": {
@@ -1359,7 +1359,7 @@
       }
     },
     {
-      "levelId": 13,
+      "levelId": 13, "difficulty": "very hard",
       "box": {
         "laneA": {
           "display": [
@@ -1527,7 +1527,7 @@
       }
     },
     {
-      "levelId": 14,
+      "levelId": 14, "difficulty": "hard",
       "box": {
         "laneA": {
           "display": [
@@ -1715,7 +1715,7 @@
       }
     },
     {
-      "levelId": 15,
+      "levelId": 15, "difficulty": "easy",
       "box": {
         "laneA": {
           "display": [
@@ -1923,7 +1923,7 @@
       }
     },
     {
-      "levelId": 16,
+      "levelId": 16, "difficulty": "veryhard",
       "box": {
         "laneA": {
           "display": [
