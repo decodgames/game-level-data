@@ -2,7 +2,7 @@
   "levels": [
     {
       "levelId": 1,
-      "difficulty":"easy",
+      "difficulty": "normal",
       "box": {
         "laneA": null,
         "laneB": null,
