@@ -910,7 +910,7 @@
       }
     },
     {
-      "levelId": 10,"difficulty":"easy",
+      "levelId": 10, "difficulty": "easy",
       "box": {
         "laneA": null,
         "laneB": {
@@ -1028,7 +1028,7 @@
       }
     },
     {
-      "levelId": 11, "difficulty": "hard",
+      "levelId": 11, "difficulty": "easy",
       "box": {
         "laneA": {
           "display": [
