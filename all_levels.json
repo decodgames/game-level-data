@@ -42,16 +42,21 @@
   {
       "levelId": 2,
        "difficulty": "easy",
-     "box":{
+    "box":{
         "trayA": {
           "positionA": {
           "display": [
+            1,1,1,1,
            0,0,0,0
           ],
           "actual": [
+            1,1,1,1,
            0,0,0,0
           ]
-        }
+        },
+          "positionB": null,
+          "positionC": null,
+          "positionD": null
       },
       "trayB":null,
       "trayC":null,
