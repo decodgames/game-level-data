@@ -42,23 +42,50 @@
       }
     },
   {
-       "levelId": 2,
-      "difficulty":"easy",
+      "levelId": 2,
+       "difficulty":"easy",
        "box":{
-        "trayA": {
-          "positionA": {
+      "trayA":null,
+      "trayB":{
+        "positionA":{
           "display": [
-           0,0,0,0
+            0,
+            0,
+            2,
+            2,
+            1,
+            1
           ],
           "actual": [
-           0,0,0,0
+            0,
+            0,
+            2,
+            2,
+            1,
+            1
           ]
         },
-          "positionB": null,
+          "positionB": {
+          "display": [
+            0,
+            0,
+            2,
+            2,
+            1,
+            1
+          ],
+          "actual": [
+            0,
+            0,
+            2,
+            2,
+            1,
+            1
+          ]
+        },
           "positionC": null,
           "positionD": null
       },
-      "trayB":null,
       "trayC":null,
       "trayD":null
       },
@@ -66,10 +93,14 @@
         "capacity": 4,
         "spawnA": {
           "display": [
-            0
+            1,
+            0,
+            2
           ],
           "actual": [
-            0
+            1,
+            0,
+            2
           ]
         },
         "spawnB": null,
