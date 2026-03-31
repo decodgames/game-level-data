@@ -44,7 +44,7 @@
       "difficulty": "easy",
       "box": {
         "trayA":  {
-          "positionA": { "display": [1,1,1,1,0,0,0,0], "actual": [1,1,1,1,0,0,0,0] },
+          "positionA": { "display": [1,1,1,1], "actual": [1,1,1,1] },
           "positionB": null,
           "positionC": null,
           "positionD": null
