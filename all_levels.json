@@ -4266,17 +4266,21 @@
     },
     {
       "levelId": 27,
-      "box": {
-        "trayA": null,
-        "trayB": null,
-        "trayC": null,
-      "trayD": {
-          "positionA": { "display": [0,0,0,0], "actual": [0,0,0,0] },
-          "positionB": { "display": [1,1,1,1], "actual": [1,1,1,1] },
-          "positionC": { "display": [2,2,2,2], "actual": [2,2,2,2] },
-          "positionD": { "display": [3,3,3,3], "actual": [3,3,3,3] }
-        },
-      },
+     "box": {
+  "trayA": null,
+  "trayB": null,
+  "trayC": null,
+  "trayD": {
+    "positionA": { "display": [0, 0, 0, 0], "actual": [0, 0, 0, 0] },
+    "positionB": { "display": [1, 1, 1, 1], "actual": [1, 1, 1, 1] },
+    "positionC": { "display": [2, 2, 2, 2], "actual": [2, 2, 2, 2] },
+    "positionD": { "display": [3, 3, 3, 3], "actual": [3, 3, 3, 3] }
+  },
+  "laneA": null,
+  "laneB": null,
+  "laneC": null,
+  "laneD": null
+}
       "trucks": {
         "capacity": 4,
         "spawnA": {
