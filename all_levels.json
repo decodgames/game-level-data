@@ -1,6 +1,6 @@
 {
   "levels": [
- {
+{
       "levelId": 1,
       "difficulty":"easy",
        "box":{
@@ -39,7 +39,7 @@
         "hiddenColor": false
       }
     },
-{
+  {
       "levelId": 2,
        "difficulty": "easy",
       "box":{
@@ -89,7 +89,6 @@
         "hiddenColor": false
       }
     },
-
 
     {
       "levelId": 3,
@@ -1015,6 +1014,7 @@
     "hiddenColor": true
   }
 },
+
 
     {
   "levelId": 13,
