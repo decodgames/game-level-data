@@ -1,6 +1,6 @@
 {
   "levels": [
-   {
+  {
       "levelId": 1,
       "difficulty":"easy",
        "box":{
@@ -41,23 +41,30 @@
     },
   {
       "levelId": 2,
-      "difficulty":"easy",
-       "box":{
-        "trayA": {
-          "positionA": {
+       "difficulty": "easy",
+      "box":{
+        "trayA":{
           "display": [
-           1,1,1,1,
-           0,0,0,0
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
           ],
           "actual": [
-          1,1,1,1,
-          0,0,0,0
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
           ]
         },
-          "positionB": null,
-          "positionC": null,
-          "positionD": null
-      },
       "trayB":null,
       "trayC":null,
       "trayD":null
@@ -66,10 +73,12 @@
         "capacity": 4,
         "spawnA": {
           "display": [
-            0,1
+            0,
+            1
           ],
           "actual": [
-            0,1
+            0,
+            1
           ]
         },
         "spawnB": null,
@@ -1001,138 +1010,6 @@
     },
     "spawnD": null
   },
-  "mechanics": {
-    "hiddenColor": true
-  }
-},
-    {
-  "levelId": 12,
-  "difficulty": "medium",
-  "box":{
-      "trayA":null,
-      "trayB":null,
-      "trayC":{
-          "positionA": {
-      "display": [
-        0,0,
-        3,3,
-        3,3,
-        2,2,
-        2,2,
-        1,1,
-        0,0,
-        3,3
-      ],
-      "actual": [
-        0,0,
-        3,3,
-        3,3,
-        2,2,
-        2,2,
-        1,1,
-        0,0,
-        3,3
-      ]
-    },
-          "positionB": {
-      "display": [
-        1,1,
-        3,3,
-        2,2,
-        2,2,
-        3,3,
-        0,0,
-        1,1,
-        3,3
-      ],
-      "actual": [
-        1,1,
-        3,3,
-        2,2,
-        2,2,
-        3,3,
-        0,0,
-        1,1,
-        3,3
-      ]
-    },
-      "positionC":  {
-      "display": [
-        2,2,
-        2,2,
-        1,1,
-        3,3,
-        0,0,
-        3,3,
-        2,2,
-        2,2
-      ],
-      "actual": [
-        2,2,
-        2,2,
-        1,1,
-        3,3,
-        0,0,
-        3,3,
-        2,2,
-        2,2
-      ]
-    },
-          "positionD": null
-      },
-      "trayD":null
-      },
-  "trucks": {
-    "capacity": 4,
-
-    "spawnA": {
-      "display": [
-        3,
-        11,
-        2,
-        11
-      ],
-      "actual": [
-        3,
-        2,
-        2,
-        3
-      ]
-    },
-
-    "spawnB": null,
-
-    "spawnC": {
-      "display": [
-        0,
-        11,
-        1,
-        11
-      ],
-      "actual": [
-        0,
-        2,
-        1,
-        3
-      ]
-    },
-
-    "spawnD": {
-      "display": [
-        2,
-        3,
-        11,
-        1
-      ],
-      "actual": [
-        2,
-        3,
-        0,
-        1
-      ]
-    }
-  },
-
   "mechanics": {
     "hiddenColor": true
   }
