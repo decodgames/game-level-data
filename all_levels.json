@@ -39,23 +39,32 @@
         "hiddenColor": false
       }
     },
- {
+{
       "levelId": 2,
-      "difficulty":"easy",
-       "box":{
-        "trayA": {
-          "positionA": {
+       "difficulty": "easy",
+      "box":{
+        "trayA":{
           "display": [
-           0,0,0,0
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
           ],
           "actual": [
-           0,0,0,0
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
           ]
         },
-          "positionB": null,
-          "positionC": null,
-          "positionD": null
-      },
       "trayB":null,
       "trayC":null,
       "trayD":null
@@ -64,10 +73,12 @@
         "capacity": 4,
         "spawnA": {
           "display": [
-            0
+            0,
+            1
           ],
           "actual": [
-            0
+            0,
+            1
           ]
         },
         "spawnB": null,
@@ -78,6 +89,8 @@
         "hiddenColor": false
       }
     },
+
+
     {
       "levelId": 3,
        "difficulty":"easy",
