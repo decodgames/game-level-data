@@ -7,12 +7,10 @@
         "trayA": {
           "positionA": {
           "display": [
-           0,0,0,0,
-            1,1,1,1
+           0,0,0,0
           ],
           "actual": [
-           0,0,0,0,
-            1,1,1,1
+           0,0,0,0
           ]
         },
           "positionB": null,
@@ -27,10 +25,10 @@
         "capacity": 4,
         "spawnA": {
           "display": [
-            1,0
+            0
           ],
           "actual": [
-            1,0
+            0
           ]
         },
         "spawnB": null,
