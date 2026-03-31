@@ -41,46 +41,6 @@
         "hiddenColor": false
       }
     },
-  {
-       "levelId": 2,
-      "difficulty":"easy",
-       "box":{
-        "trayA": {
-          "positionA": {
-          "display": [
-           0,0,0,0
-          ],
-          "actual": [
-           0,0,0,0
-          ]
-        },
-          "positionB": null,
-          "positionC": null,
-          "positionD": null
-      },
-      "trayB":null,
-      "trayC":null,
-      "trayD":null
-      },
-      "trucks": {
-        "capacity": 4,
-        "spawnA": {
-          "display": [
-            0
-          ],
-          "actual": [
-            0
-          ]
-        },
-        "spawnB": null,
-        "spawnC": null,
-        "spawnD": null
-      },
-      "mechanics": {
-        "hiddenColor": false
-      }
-  },
-
     {
       "levelId": 3,
        "difficulty":"easy",
