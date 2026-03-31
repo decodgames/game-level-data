@@ -7,14 +7,10 @@
         "trayA": {
           "positionA": {
           "display": [
-           0,0,0,0,
-        
-           
+           0,0,0,0
           ],
           "actual": [
-           0,0,0,0,
-        
-           
+           0,0,0,0
           ]
         },
           "positionB": null,
@@ -54,7 +50,6 @@
           ],
           "actual": [
            0,0,0,0
-          
           ]
         },
         "trayB": null,
