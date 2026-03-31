@@ -58,7 +58,8 @@
       },
       "trucks": { "capacity": 4, "spawnA": { "display": [0,1], "actual": [0,1] }, "spawnB": null, "spawnC": null, "spawnD": null },
       "mechanics": { "hiddenColor": false }
-    },
+    }
+  },
 
     {
       "levelId": 3,
