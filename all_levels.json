@@ -39,18 +39,16 @@
         "hiddenColor": false
       }
     },
-  {
-      "levelId": 2,
-       "difficulty": "easy",
-    "box":{
+ {
+      "levelId": 1,
+      "difficulty":"easy",
+       "box":{
         "trayA": {
           "positionA": {
           "display": [
-            1,1,1,1,
            0,0,0,0
           ],
           "actual": [
-            1,1,1,1,
            0,0,0,0
           ]
         },
@@ -66,12 +64,10 @@
         "capacity": 4,
         "spawnA": {
           "display": [
-            0,
-            1
+            0
           ],
           "actual": [
-            0,
-            1
+            0
           ]
         },
         "spawnB": null,
@@ -82,7 +78,6 @@
         "hiddenColor": false
       }
     },
-
     {
       "levelId": 3,
        "difficulty":"easy",
