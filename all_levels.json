@@ -8,24 +8,9 @@
         "trayA": {
           "positionA": { "display": [0, 0, 0, 0], "actual": [0, 0, 0, 0] },
         },
-        "trayB": {
-          "positionA": { "display": [1, 1, 1], "actual": [1, 1, 1] },
-          "positionB": { "display": [2, 2], "actual": [2, 2] },
-          "positionC": null,
-          "positionD": null
-        },
-        "trayC": {
-          "positionA": { "display": [0, 1], "actual": [0, 1] },
-          "positionB": { "display": [2, 3], "actual": [2, 3] },
-          "positionC": { "display": [1, 1], "actual": [1, 1] },
-          "positionD": null
-        },
-        "trayD": {
-          "positionA": { "display": [0], "actual": [0] },
-          "positionB": { "display": [1], "actual": [1] },
-          "positionC": { "display": [2], "actual": [2] },
-          "positionD": { "display": [3], "actual": [3] }
-        },
+        "trayB": null,
+        "trayC": null,
+        "trayD": null,
 
         "laneA": null,
         "laneB": null,
