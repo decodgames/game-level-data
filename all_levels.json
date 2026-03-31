@@ -2,16 +2,17 @@
   "levels": [
     {
       "levelId": 1,
-      "difficulty":"easy",
-     
+      "difficulty": "easy",
       "box": {
         "trayA": {
           "positionA": { "display": [0, 0, 0, 0], "actual": [0, 0, 0, 0] },
+          "positionB": null,
+          "positionC": null,
+          "positionD": null
         },
         "trayB": null,
         "trayC": null,
         "trayD": null,
-
         "laneA": null,
         "laneB": null,
         "laneC": null,
@@ -19,34 +20,26 @@
       },
       "trucks": {
         "capacity": 4,
-        "spawnA": {
-          "display": [
-            0
-          ],
-          "actual": [
-            0
-          ]
-        },
+        "spawnA": { "display": [0], "actual": [0] },
         "spawnB": null,
         "spawnC": null,
         "spawnD": null
       },
-      "mechanics": {
-        "hiddenColor": false
-      }
+      "mechanics": { "hiddenColor": false }
     },
     {
       "levelId": 2,
        "difficulty": "easy",
-     "box": {
+    "box": {
         "trayA": null,
         "trayB": {
           "positionA": { "display": [1, 1, 1], "actual": [1, 1, 1] },
           "positionB": { "display": [2, 2], "actual": [2, 2] },
+          "positionC": null,
+          "positionD": null
         },
         "trayC": null,
         "trayD": null,
-
         "laneA": null,
         "laneB": null,
         "laneC": null,
