@@ -1,27 +1,35 @@
 {
   "levels": [
-    {
+{
       "levelId": 1,
-      "difficulty": "easy",
-      "box": {
+      "difficulty":"easy",
+       "box":{
         "trayA": {
           "positionA": {
-            "display": [0, 0, 0, 0],
-            "actual": [0, 0, 0, 0]
-          },
+          "display": [
+           0,0,0,0
+          ],
+          "actual": [
+           0,0,0,0
+          ]
+        },
           "positionB": null,
           "positionC": null,
           "positionD": null
-        },
-        "trayB": null,
-        "trayC": null,
-        "trayD": null
+      },
+      "trayB":null,
+      "trayC":null,
+      "trayD":null
       },
       "trucks": {
         "capacity": 4,
         "spawnA": {
-          "display": [0],
-          "actual": [0]
+          "display": [
+            0
+          ],
+          "actual": [
+            0
+          ]
         },
         "spawnB": null,
         "spawnC": null,
@@ -29,6 +37,5209 @@
       },
       "mechanics": {
         "hiddenColor": false
+      }
+},
+  {
+      "levelId": 2,
+       "difficulty": "easy",
+      "box":{
+        "trayA":{
+          "display": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          "actual": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+      "trayB":null,
+      "trayC":null,
+      "trayD":null
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [
+            0,
+            1
+          ],
+          "actual": [
+            0,
+            1
+          ]
+        },
+        "spawnB": null,
+        "spawnC": null,
+        "spawnD": null
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+
+    {
+      "levelId": 3,
+       "difficulty":"easy",
+       "box":{
+      "trayA":null,
+      "trayB":{
+        "positionA":{
+          "display": [
+            0,
+            0,
+            2,
+            2,
+            1,
+            1
+          ],
+          "actual": [
+            0,
+            0,
+            2,
+            2,
+            1,
+            1
+          ]
+        },
+          "positionB": {
+          "display": [
+            0,
+            0,
+            2,
+            2,
+            1,
+            1
+          ],
+          "actual": [
+            0,
+            0,
+            2,
+            2,
+            1,
+            1
+          ]
+        },
+          "positionC": null,
+          "positionD": null
+      },
+      "trayC":null,
+      "trayD":null
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [
+            1,
+            0,
+            2
+          ],
+          "actual": [
+            1,
+            0,
+            2
+          ]
+        },
+        "spawnB": null,
+        "spawnC": null,
+        "spawnD": null
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+ {
+  "levelId": 4,
+  "difficulty": "easy",
+  "box":{
+      "trayA":null,
+      "trayB":{
+          "positionA":  {
+      "display": [
+        0,0,
+        2,2,
+        1,1,
+        2,2,
+        2,2,
+        0,0
+      ],
+      "actual": [
+        0,0,
+        2,2,
+        1,1,
+        2,2,
+        2,2,
+        0,0
+      ]
+    },
+          "positionB":{
+      "display": [
+        0,0,
+        2,2,
+        1,1,
+        2,2,
+        2,2,
+        0,0
+      ],
+      "actual": [
+        0,0,
+        2,2,
+        1,1,
+        2,2,
+        2,2,
+        0,0
+      ]
+    },
+          "positionC": null,
+          "positionD": null
+      },
+      "trayC":null,
+      "trayD":null
+      },
+  "trucks": {
+    "capacity": 4,
+    "spawnA": {
+      "display": [
+        2,
+        1,
+        2,
+        0,
+        2,
+        0
+      ],
+      "actual": [
+        2,
+        1,
+        2,
+        0,
+        2,
+        0
+      ]
+    },
+    "spawnB": null,
+    "spawnC": null,
+    "spawnD": null
+  },
+  "mechanics": {
+    "hiddenColor": false
+  }
+},
+ 
+ {
+  "levelId": 5,
+  "difficulty": "easy",
+  "box":{
+      "trayA":null,
+      "trayB":{
+          "positionA": {
+      "display": [
+        0,0,
+        2,2,
+        1,1,
+        1,1,
+        0,0,
+        2,2,
+        2,2,
+        2,2
+      ],
+      "actual": [
+        0,0,
+        2,2,
+        1,1,
+        1,1,
+        0,0,
+        2,2,
+        2,2,
+        2,2
+      ]
+    }
+,
+          "positionB": {
+      "display": [
+        0,0,
+        2,2,
+        2,2,
+        1,1,
+        0,0,
+        1,1,
+        2,2,
+        2,2
+      ],
+      "actual": [
+        0,0,
+        2,2,
+        2,2,
+        1,1,
+        0,0,
+        1,1,
+        2,2,
+        2,2
+      ]
+    },
+          "positionC": null,
+          "positionD": null
+      },
+      "trayC":null,
+      "trayD":null
+      },
+  "trucks": {
+    "capacity": 4,
+    "spawnA": {
+      "display": [
+        2,
+        1,
+        2,
+        2
+      ],
+      "actual": [
+        2,
+        1,
+        2,
+        2
+      ]
+    },
+    "spawnB": null,
+    "spawnC": {
+      "display": [
+        1,
+        0,
+        2,
+        0
+      ],
+      "actual": [
+        1,
+        0,
+        2,
+        0
+      ]
+    },
+    "spawnD": null
+  },
+  "mechanics": {
+    "hiddenColor": false
+  }
+},
+ {
+      "levelId": 6,
+      "difficulty":"medium",
+       "box":{
+      "trayA":null,
+      "trayB":{
+          "positionA": {
+          "display": [
+            0,
+            0,
+            3,
+            3,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            0,
+            0,
+            3,
+            3,
+            2,
+            2
+          ],
+          "actual": [
+            0,
+            0,
+            3,
+            3,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            0,
+            0,
+            3,
+            3,
+            2,
+            2
+          ]
+        },
+          "positionB": {
+          "display": [
+            0,
+            0,
+            2,
+            2,
+            1,
+            1,
+            3,
+            3,
+            0,
+            0,
+            1,
+            1,
+            3,
+            3,
+            2,
+            2
+          ],
+          "actual": [
+            0,
+            0,
+            2,
+            2,
+            1,
+            1,
+            3,
+            3,
+            0,
+            0,
+            1,
+            1,
+            3,
+            3,
+            2,
+            2
+          ]
+        }
+
+,
+          "positionC": null,
+          "positionD": null
+      },
+      "trayC":null,
+      "trayD":null
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [
+            1,
+            2,
+            3,
+            1
+          ],
+          "actual": [
+            1,
+            2,
+            3,
+            1
+          ]
+        },
+        "spawnB": {
+          "display": [
+            3,
+            0,
+            2,
+            0
+          ],
+          "actual": [
+            3,
+            0,
+            2,
+            0
+          ]
+        },
+        "spawnC": null,
+        "spawnD": null
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+ {
+      "levelId": 7,"difficulty":"medium",
+      "box":{
+      "trayA":null,
+      "trayB":{
+          "positionA": {
+          "display": [
+            0,
+            0,
+            3,
+            3,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            0,
+            0,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            3,
+            3
+          ],
+          "actual": [
+            0,
+            0,
+            3,
+            3,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            0,
+            0,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            3,
+            3
+          ]
+        },
+          "positionB": {
+          "display": [
+            0,
+            0,
+            2,
+            2,
+            3,
+            3,
+            1,
+            1,
+            0,
+            0,
+            1,
+            1,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            3,
+            3
+          ],
+          "actual": [
+            0,
+            0,
+            2,
+            2,
+            3,
+            3,
+            1,
+            1,
+            0,
+            0,
+            1,
+            1,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            3,
+            3
+          ]
+        },
+          "positionC": null,
+          "positionD": null
+      },
+      "trayC":null,
+      "trayD":null
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": null,
+        "spawnB": {
+          "display": [
+            3,
+            0,
+            1,
+            2,
+            3
+          ],
+          "actual": [
+            3,
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        "spawnC": {
+          "display": [
+            1,
+            2,
+            3,
+            0,
+            1
+          ],
+          "actual": [
+            1,
+            2,
+            3,
+            0,
+            1
+          ]
+        },
+        "spawnD": null
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+{
+  "levelId": 8,
+  "difficulty": "hard",
+   "box":{
+      "trayA":null,
+      "trayB":{
+          "positionA":  {
+      "display": [
+        0,0,
+        3,3,
+        2,2,
+        1,1,
+        3,3,
+        0,0,
+        1,1,
+        3,3,
+        3,3,
+        2,2
+      ],
+      "actual": [
+        0,0,
+        3,3,
+        2,2,
+        1,1,
+        3,3,
+        0,0,
+        1,1,
+        3,3,
+        3,3,
+        2,2
+      ]
+    },
+          "positionB": {
+      "display": [
+        0,0,
+        2,2,
+        3,3,
+        3,3,
+        1,1,
+        0,0,
+        3,3,
+        3,3,
+        2,2,
+        1,1
+      ],
+      "actual": [
+        0,0,
+        2,2,
+        3,3,
+        3,3,
+        1,1,
+        0,0,
+        3,3,
+        3,3,
+        2,2,
+        1,1
+      ]
+    },
+          "positionC": null,
+          "positionD": null
+      },
+      "trayC":null,
+      "trayD":null
+      },
+  "trucks": {
+    "capacity": 4,
+    "spawnA": {
+      "display": [
+        3,
+        1,
+        0,
+        3,
+        2
+      ],
+      "actual": [
+        3,
+        1,
+        0,
+        3,
+        2
+      ]
+    },
+    "spawnB": null,
+    "spawnC": null,
+    "spawnD": {
+      "display": [
+        3,
+        2,
+        3,
+        1,
+        0
+      ],
+      "actual": [
+        3,
+        2,
+        3,
+        1,
+        0
+      ]
+    }
+  },
+  "mechanics": {
+    "hiddenColor": false
+  }
+},
+{
+  "levelId": 9,
+  "difficulty": "hard",
+  "box":{
+      "trayA":null,
+      "trayB":{
+          "positionA": {
+      "display": [
+        0,0,
+        3,3,
+        1,1,
+        1,1,
+        2,2,
+        0,0,
+        1,1,
+        3,3,
+        1,1,
+        2,2,
+        1,1,
+        3,3
+      ],
+      "actual": [
+        0,0,
+        3,3,
+        1,1,
+        1,1,
+        2,2,
+        0,0,
+        1,1,
+        3,3,
+        1,1,
+        2,2,
+        1,1,
+        3,3
+      ]
+    }
+,
+          "positionB": {
+      "display": [
+        0,0,
+        2,2,
+        1,1,
+        3,3,
+        1,1,
+        0,0,
+        3,3,
+        1,1,
+        2,2,
+        1,1,
+        1,1,
+        3,3
+      ],
+      "actual": [
+        0,0,
+        2,2,
+        1,1,
+        3,3,
+        1,1,
+        0,0,
+        3,3,
+        1,1,
+        2,2,
+        1,1,
+        1,1,
+        3,3
+      ]
+    },
+          "positionC": null,
+          "positionD": null
+      },
+      "trayC":null,
+      "trayD":null
+      },
+  "trucks": {
+    "capacity": 4,
+    "spawnA": {
+      "display": [
+        1,
+        1,
+        0,
+        3,
+        2,
+        1
+      ],
+      "actual": [
+        1,
+        1,
+        0,
+        3,
+        2,
+        1
+      ]
+    },
+    "spawnB": null,
+    "spawnC": {
+      "display": [
+        3,
+        2,
+        1,
+        1,
+        0,
+        3
+      ],
+      "actual": [
+        3,
+        2,
+        1,
+        1,
+        0,
+        3
+      ]
+    },
+    "spawnD": null
+  },
+  "mechanics": {
+    "hiddenColor": false
+  }
+},
+    {
+  "levelId": 10,
+  "difficulty": "easy",
+  "box":{
+      "trayA":null,
+      "trayB":{
+          "positionA": {
+      "display": [
+        1,1,1,1,
+        3,3,3,3,
+        0,0,0,0,
+        2,2,2,2
+      ],
+      "actual": [
+        1,1,1,1,
+        3,3,3,3,
+        0,0,0,0,
+        2,2,2,2
+      ]
+    },
+          "positionB": {
+      "display": [
+        3,3,3,3,
+        0,0,0,0,
+        2,2,2,2,
+        1,1,1,1
+      ],
+      "actual": [
+        3,3,3,3,
+        0,0,0,0,
+        2,2,2,2,
+        1,1,1,1
+      ]
+    },
+          "positionC": null,
+          "positionD": null
+      },
+      "trayC":null,
+      "trayD":null
+      },
+  "trucks": {
+    "capacity": 4,
+    "spawnA": {
+      "display": [
+        3,
+        11,
+        1,
+        0
+      ],
+      "actual": [
+        3,
+        2,
+        1,
+        0
+      ]
+    },
+    "spawnB": null,
+    "spawnC": null,
+    "spawnD": {
+      "display": [
+        0,
+        1,
+        3,
+        11
+      ],
+      "actual": [
+        0,
+        1,
+        3,
+        2
+      ]
+    }
+  },
+  "mechanics": {
+    "hiddenColor": true
+  }
+},
+ {
+  "levelId": 11,
+  "difficulty": "veryhard",
+ "box":{
+      "trayA":null,
+      "trayB":null,
+      "trayC":{
+          "positionA":  {
+      "display": [
+        0,0,0,0,
+        3,3,
+        1,1,1,1,
+        2,2,
+        3,3,
+        2,2
+      ],
+      "actual": [
+        0,0,0,0,
+        3,3,
+        1,1,1,1,
+        2,2,
+        3,3,
+        2,2
+      ]
+    }
+,
+          "positionB":  {
+      "display": [
+        0,0,
+        3,3,3,3,
+        1,1,
+        2,2,2,2,
+        3,3,
+        2,2
+      ],
+      "actual": [
+        0,0,
+        3,3,3,3,
+        1,1,
+        2,2,2,2,
+        3,3,
+        2,2
+      ]
+    },
+          "positionC":  
+{
+      "display": [
+        0,0,
+        3,3,
+        1,1,
+        2,2,
+        3,3,3,3,
+        2,2,2,2
+      ],
+      "actual": [
+        0,0,
+        3,3,
+        1,1,
+        2,2,
+        3,3,3,3,
+        2,2,2,2
+      ]
+    },
+          "positionD": null
+      },
+      "trayD":null
+      },
+  "trucks": {
+    "capacity": 4,
+    "spawnA": {
+      "display": [
+        3,
+        1,
+        11,
+        11,
+        0,
+        11,
+        11,
+        1
+      ],
+      "actual": [
+        3,
+        1,
+        2,
+        3,
+        0,
+        2,
+        3,
+        1
+      ]
+    },
+    "spawnB": null,
+    "spawnC": {
+      "display": [
+        0,
+        11,
+        2,
+        11
+      ],
+      "actual": [
+        0,
+        2,
+        2,
+        3
+      ]
+    },
+    "spawnD": null
+  },
+  "mechanics": {
+    "hiddenColor": true
+  }
+},
+ {
+  "levelId": 12,
+  "difficulty": "medium",
+  "box":{
+      "trayA":null,
+      "trayB":null,
+      "trayC":{
+          "positionA": {
+      "display": [
+        0,0,
+        3,3,
+        3,3,
+        2,2,
+        2,2,
+        1,1,
+        0,0,
+        3,3
+      ],
+      "actual": [
+        0,0,
+        3,3,
+        3,3,
+        2,2,
+        2,2,
+        1,1,
+        0,0,
+        3,3
+      ]
+    },
+          "positionB": {
+      "display": [
+        1,1,
+        3,3,
+        2,2,
+        2,2,
+        3,3,
+        0,0,
+        1,1,
+        3,3
+      ],
+      "actual": [
+        1,1,
+        3,3,
+        2,2,
+        2,2,
+        3,3,
+        0,0,
+        1,1,
+        3,3
+      ]
+    }
+
+,
+          "positionC":  {
+      "display": [
+        2,2,
+        2,2,
+        1,1,
+        3,3,
+        0,0,
+        3,3,
+        2,2,
+        2,2
+      ],
+      "actual": [
+        2,2,
+        2,2,
+        1,1,
+        3,3,
+        0,0,
+        3,3,
+        2,2,
+        2,2
+      ]
+    },
+          "positionD": null
+      },
+      "trayD":null
+      },
+  "trucks": {
+    "capacity": 4,
+
+    "spawnA": {
+      "display": [
+        3,
+        11,
+        2,
+        11
+      ],
+      "actual": [
+        3,
+        2,
+        2,
+        3
+      ]
+    },
+
+    "spawnB": null,
+
+    "spawnC": {
+      "display": [
+        0,
+        11,
+        1,
+        11
+      ],
+      "actual": [
+        0,
+        2,
+        1,
+        3
+      ]
+    },
+
+    "spawnD": {
+      "display": [
+        2,
+        3,
+        11,
+        1
+      ],
+      "actual": [
+        2,
+        3,
+        0,
+        1
+      ]
+    }
+  },
+
+  "mechanics": {
+    "hiddenColor": true
+  }
+},
+{
+  "levelId": 13,
+  "difficulty": "easy",
+  "box":{
+      "trayA":null,
+      "trayB":null,
+      "trayC":{
+          "positionA": {
+      "display": [
+        0,0,
+        3,3,
+        2,2,
+        3,3,
+        2,2,
+        1,1,
+        0,0,
+        3,3
+      ],
+      "actual": [
+        0,0,
+        3,3,
+        2,2,
+        3,3,
+        2,2,
+        1,1,
+        0,0,
+        3,3
+      ]
+    },
+          "positionB":
+{
+      "display": [
+        2,2,
+        1,1,
+        3,3,
+        2,2,
+        0,0,
+        3,3,
+        2,2,
+        1,1
+      ],
+      "actual": [
+        2,2,
+        1,1,
+        3,3,
+        2,2,
+        0,0,
+        3,3,
+        2,2,
+        1,1
+      ]
+    }
+,
+          "positionC":  {
+      "display": [
+        3,3,
+        2,2,
+        0,0,
+        3,3,
+        2,2,
+        1,1,
+        3,3,
+        2,2
+      ],
+      "actual": [
+        3,3,
+        2,2,
+        0,0,
+        3,3,
+        2,2,
+        1,1,
+        3,3,
+        2,2
+      ]
+    },
+          "positionD": null
+      },
+      "trayD":null
+      },
+  "trucks": {
+    "capacity": 4,
+
+    "spawnA": null,
+
+    "spawnB": {
+      "display": [
+        0,
+        11,
+        2,
+        11
+      ],
+      "actual": [
+        0,
+        3,
+        2,
+        3
+      ]
+    },
+
+    "spawnC": {
+      "display": [
+        2,
+        11,
+        3,
+        11
+      ],
+      "actual": [
+        2,
+        1,
+        3,
+        2
+      ]
+    },
+
+    "spawnD": {
+      "display": [
+        3,
+        11,
+        0,
+        11
+      ],
+      "actual": [
+        3,
+        2,
+        0,
+        1
+      ]
+    }
+  },
+
+  "mechanics": {
+    "hiddenColor": true
+  }
+},
+ {
+  "levelId": 14,
+  "difficulty": "medium",
+  "box":{
+      "trayA":null,
+      "trayB":null,
+      "trayC":{
+          "positionA": {
+      "display": [
+        0,0,
+        3,3,
+        2,2,
+        2,2,
+        1,1,
+        3,3,
+        0,0,
+        2,2,
+        2,2,
+        3,3
+      ],
+      "actual": [
+        0,0,
+        3,3,
+        2,2,
+        2,2,
+        1,1,
+        3,3,
+        0,0,
+        2,2,
+        2,2,
+        3,3
+      ]
+    },
+          "positionB": {
+      "display": [
+        1,1,
+        3,3,
+        0,0,
+        2,2,
+        2,2,
+        3,3,
+        0,0,
+        2,2,
+        1,1
+      ],
+      "actual": [
+        1,1,
+        3,3,
+        0,0,
+        2,2,
+        2,2,
+        3,3,
+        0,0,
+        2,2,
+        1,1
+      ]
+    },
+          "positionC": {
+      "display": [
+        3,3,
+        2,2,
+        3,3,
+        0,0,
+        2,2,
+        1,1,
+        3,3,
+        2,2,
+        0,0
+      ],
+      "actual": [
+        3,3,
+        2,2,
+        3,3,
+        0,0,
+        2,2,
+        1,1,
+        3,3,
+        2,2,
+        0,0
+      ]
+    },
+          "positionD": null
+      },
+      "trayD":null
+      },
+  "trucks": {
+    "capacity": 4,
+    "spawnA": {
+      "display": [
+        0,
+        2,
+        11,
+        2,
+        0
+      ],
+      "actual": [
+        0,
+        2,
+        3,
+        2,
+        0
+      ]
+    },
+    "spawnB": null,
+    "spawnC": {
+      "display": [
+        3,
+        1,
+        0,
+        11,
+        2
+      ],
+      "actual": [
+        3,
+        1,
+        0,
+        2,
+        2
+      ]
+    },
+    "spawnD": {
+      "display": [
+        2,
+        3,
+        11,
+        1
+      ],
+      "actual": [
+        2,
+        3,
+        3,
+        1
+      ]
+    }
+  },
+  "mechanics": {
+    "hiddenColor": true
+  }
+},
+{
+  "levelId": 15,
+  "difficulty": "hard",
+  "box":{
+      "trayA":null,
+      "trayB":null,
+      "trayC":{
+          "positionA": {
+      "display": [
+        0,0,
+        4,4,
+        4,4,
+        1,1,
+        2,2,
+        3,3,
+        4,4,
+        4,4,
+        0,0,
+        1,1,
+        2,2
+      ],
+      "actual": [
+        0,0,
+        4,4,
+        4,4,
+        1,1,
+        2,2,
+        3,3,
+        4,4,
+        4,4,
+        0,0,
+        1,1,
+        2,2
+      ]
+    },
+          "positionB":
+{
+      "display": [
+        3,3,
+        2,2,
+        1,1,
+        4,4,
+        0,0,
+        4,4,
+        2,2,
+        1,1,
+        4,4,
+        4,4,
+        1,1
+      ],
+      "actual": [
+        3,3,
+        2,2,
+        1,1,
+        4,4,
+        0,0,
+        4,4,
+        2,2,
+        1,1,
+        4,4,
+        4,4,
+        1,1
+      ]
+    }
+
+,
+          "positionC": {
+      "display": [
+        4,4,
+        4,4,
+        0,0,
+        3,3,
+        2,2,
+        1,1,
+        4,4,
+        2,2,
+        3,3,
+        4,4
+      ],
+      "actual": [
+        4,4,
+        4,4,
+        0,0,
+        3,3,
+        2,2,
+        1,1,
+        4,4,
+        2,2,
+        3,3,
+        4,4
+      ]
+    },
+          "positionD": null
+      },
+      "trayD":null
+      },
+  "trucks": {
+    "capacity": 4,
+
+    "spawnA": null,
+
+    "spawnB": {
+      "display": [
+        4,
+        11,
+        1,
+        11,
+        2
+      ],
+      "actual": [
+        4,
+        4,
+        1,
+        0,
+        2
+      ]
+    },
+
+    "spawnC": {
+      "display": [
+        3,
+        11,
+        4,
+        1,
+        11
+      ],
+      "actual": [
+        3,
+        4,
+        4,
+        1,
+        2
+      ]
+    },
+
+    "spawnD": {
+      "display": [
+        0,
+        11,
+        3,
+        11,
+        4,
+        1
+      ],
+      "actual": [
+        0,
+        2,
+        3,
+        4,
+        4,
+        1
+      ]
+    }
+  },
+
+  "mechanics": {
+    "hiddenColor": true
+  }
+},
+{
+  "levelId": 16,
+  "difficulty": "medium",
+  "box":{
+      "trayA":null,
+      "trayB":null,
+      "trayC":{
+          "positionA":  {
+      "display": [
+        2,2,
+        0,0,
+        4,4,
+        1,1,
+        3,3,
+        4,4,
+        2,2,
+        0,0,
+        1,1,
+        3,3,
+        4,4
+      ],
+      "actual": [
+        2,2,
+        0,0,
+        4,4,
+        1,1,
+        3,3,
+        4,4,
+        2,2,
+        0,0,
+        1,1,
+        3,3,
+        4,4
+      ]
+    },
+          "positionB": {
+      "display": [
+        1,1,
+        3,3,
+        0,0,
+        2,2,
+        4,4,
+        2,2,
+        1,1,
+        3,3,
+        4,4,
+        0,0,
+        0,0
+      ],
+      "actual": [
+        1,1,
+        3,3,
+        0,0,
+        2,2,
+        4,4,
+        2,2,
+        1,1,
+        3,3,
+        4,4,
+        0,0,
+        0,0
+      ]
+    }
+,
+          "positionC": {
+      "display": [
+        3,3,
+        2,2,
+        4,4,
+        0,0,
+        1,1,
+        4,4,
+        3,3,
+        2,2,
+        1,1,
+        4,4
+      ],
+      "actual": [
+        3,3,
+        2,2,
+        4,4,
+        0,0,
+        1,1,
+        4,4,
+        3,3,
+        2,2,
+        1,1,
+        4,4
+      ]
+    },
+          "positionD": null
+      },
+      "trayD":null
+      },
+  "trucks": {
+    "capacity": 4,
+    "spawnA": null,
+    "spawnB": {
+      "display": [
+        2,
+        11,
+        0,
+        11,
+        1
+      ],
+      "actual": [
+        2,
+        4,
+        0,
+        3,
+        1
+      ]
+    },
+    "spawnC": {
+      "display": [
+        1,
+        11,
+        3,
+        11,
+        4
+      ],
+      "actual": [
+        1,
+        0,
+        3,
+        4,
+        4
+      ]
+    },
+    "spawnD": {
+      "display": [
+        3,
+        11,
+        0,
+        11,
+        2,
+        4
+      ],
+      "actual": [
+        3,
+        2,
+        0,
+        1,
+        2,
+        4
+      ]
+    }
+  },
+  "mechanics": {
+    "hiddenColor": true
+  }
+},
+
+ {
+  "levelId": 17,
+  "difficulty": "hard",
+  "box":{
+      "trayA":null,
+      "trayB":null,
+      "trayC":{
+          "positionA":{
+      "display": [
+        0,0,0,0,
+        1,1,1,1,
+        2,2,
+        3,3,
+        4,4,
+        4,4,
+        2,2,
+        3,3
+      ],
+      "actual": [
+        0,0,0,0,
+        1,1,1,1,
+        2,2,
+        3,3,
+        4,4,
+        4,4,
+        2,2,
+        3,3
+      ]
+    },
+          "positionB": {
+      "display": [
+        4,4,
+        0,0,
+        1,1,
+        2,2,2,2,
+        3,3,
+        4,4,
+        4,4,
+        0,0,
+        1,1,
+        3,3
+      ],
+      "actual": [
+        4,4,
+        0,0,
+        1,1,
+        2,2,2,2,
+        3,3,
+        4,4,
+        4,4,
+        0,0,
+        1,1,
+        3,3
+      ]
+    }
+,
+          "positionC": {
+      "display": [
+        4,4,
+        4,4,
+        0,0,
+        1,1,
+        2,2,
+        3,3,3,3,
+        4,4,
+        0,0,
+        1,1,
+        2,2
+      ],
+      "actual": [
+        4,4,
+        4,4,
+        0,0,
+        1,1,
+        2,2,
+        3,3,3,3,
+        4,4,
+        0,0,
+        1,1,
+        2,2
+      ]
+    },
+          "positionD": null
+      },
+      "trayD":null
+      },
+  "trucks": {
+    "capacity": 4,
+    "spawnA": {
+      "display": [
+        0,
+        1,
+        2,
+        11,
+        11
+      ],
+      "actual": [
+        0,
+        1,
+        2,
+        4,
+        3
+      ]
+    },
+    "spawnB": null,
+    "spawnC": {
+      "display": [
+        3,
+        0,
+        1,
+        11,
+        11
+      ],
+      "actual": [
+        3,
+        0,
+        1,
+        4,
+        2
+      ]
+    },
+    "spawnD": {
+      "display": [
+        2,
+        3,
+        4,
+        11,
+        11,
+        1
+      ],
+      "actual": [
+        2,
+        3,
+        4,
+        4,
+        0,
+        1
+      ]
+    }
+  },
+  "mechanics": {
+    "hiddenColor": true
+  }
+},
+
+{
+  "levelId": 18,
+  "difficulty": "hard",
+   "box":{
+      "trayA":null,
+      "trayB":null,
+      "trayC":null,
+      "trayD":{
+          "positionA":{
+      "display": [
+        0,0,
+        1,1,
+        2,2,
+        3,3,
+        4,4,
+        4,4,
+        0,0,
+        1,1,
+        2,2
+      ],
+      "actual": [
+        0,0,
+        1,1,
+        2,2,
+        3,3,
+        4,4,
+        4,4,
+        0,0,
+        1,1,
+        2,2
+      ]
+    },
+          "positionB": {
+      "display": [
+        3,3,
+        4,4,
+        4,4,
+        0,0,
+        1,1,
+        2,2,
+        3,3,
+        4,4,
+        4,4
+      ],
+      "actual": [
+        3,3,
+        4,4,
+        4,4,
+        0,0,
+        1,1,
+        2,2,
+        3,3,
+        4,4,
+        4,4
+      ]
+    }
+
+,
+          "positionC":  {
+      "display": [
+        1,1,
+        2,2,
+        3,3,
+        4,4,
+        4,4,
+        0,0,
+        1,1,
+        2,2,
+        3,3
+      ],
+      "actual": [
+        1,1,
+        2,2,
+        3,3,
+        4,4,
+        4,4,
+        0,0,
+        1,1,
+        2,2,
+        3,3
+      ]
+    }
+,
+          "positionD": 
+{
+      "display": [
+        4,4,
+        4,4,
+        0,0,
+        1,1,
+        2,2,
+        3,3,
+        4,4,
+        4,4,
+        0,0
+      ],
+      "actual": [
+        4,4,
+        4,4,
+        0,0,
+        1,1,
+        2,2,
+        3,3,
+        4,4,
+        4,4,
+        0,0
+      ]
+    }
+      }
+      },
+  "trucks": {
+    "capacity": 4,
+    "spawnA": {
+      "display": [
+        0,
+        11,
+        2,
+        3,
+        11,
+        4
+      ],
+      "actual": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        4
+      ]
+    },
+    "spawnB": null,
+    "spawnC": {
+      "display": [
+        1,
+        11,
+        3,
+        4,
+        11,
+        0
+      ],
+      "actual": [
+        1,
+        2,
+        3,
+        4,
+        4,
+        0
+      ]
+    },
+    "spawnD": {
+      "display": [
+        2,
+        11,
+        4,
+        0,
+        11,
+        1
+      ],
+      "actual": [
+        2,
+        3,
+        4,
+        0,
+        4,
+        1
+      ]
+    }
+  },
+  "mechanics": {
+    "hiddenColor": true
+  }
+},
+
+{
+      "levelId": 19,
+       "box":{
+      "trayA":null,
+      "trayB":null,
+      "trayC":null,
+      "trayD":{
+          "positionA": {
+          "display": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3
+          ],
+          "actual": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3
+          ]
+        },
+          "positionB": {
+          "display": [
+            4,
+            4,
+            4,
+            4,
+            2,
+            2,
+            2,
+            2,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+          ],
+          "actual": [
+            4,
+            4,
+            4,
+            4,
+            2,
+            2,
+            2,
+            2,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+,
+          "positionC": {
+          "display": [
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+          ],
+          "actual": [
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+,
+          "positionD": {
+          "display": [
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            4,
+            4,
+            4,
+            4,
+            2,
+            2,
+            2,
+            2
+          ],
+          "actual": [
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            4,
+            4,
+            4,
+            4,
+            2,
+            2,
+            2,
+            2
+          ]
+        }
+      }
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": null,
+        "spawnB": {
+          "display": [
+            0,
+            11,
+            2,
+            11,
+            4
+          ],
+          "actual": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        "spawnC": {
+          "display": [
+            2,
+            0,
+            1,
+            2,
+            11
+          ],
+          "actual": [
+            2,
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        "spawnD": {
+          "display": [
+            4,
+            2,
+            11,
+            1,
+            11,
+            11
+          ],
+          "actual": [
+            4,
+            2,
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      "mechanics": {
+        "hiddenColor": true
+      }
+    },
+
+{
+      "levelId": 20,
+ "box":{
+      "trayA":null,
+      "trayB":null,
+      "trayC":null,
+      "trayD":{
+          "positionA": {
+          "display": [
+            0,
+            0,
+            11,
+            11,
+            2,
+            2,
+            11,
+            11,
+            4,
+            4,
+            5,
+            5,
+            0,
+            0,
+            4,
+            4,
+            2,
+            2,
+            3,
+            3
+          ],
+          "actual": [
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            0,
+            0,
+            4,
+            4,
+            2,
+            2,
+            3,
+            3
+          ]
+        },
+          "positionB": {
+          "display": [
+            4,
+            4,
+            11,
+            11,
+            0,
+            0,
+            11,
+            11,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0
+          ],
+          "actual": [
+            4,
+            4,
+            5,
+            5,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+,
+          "positionC":  {
+          "display": [
+            2,
+            2,
+            11,
+            11,
+            4,
+            4,
+            11,
+            11,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5
+          ],
+          "actual": [
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5
+          ]
+        }
+,
+          "positionD":  {
+          "display": [
+            0,
+            0,
+            11,
+            11,
+            1,
+            1,
+            11,
+            11,
+            2,
+            2,
+            3,
+            3,
+            0,
+            0,
+            4,
+            4,
+            5,
+            5,
+            1,
+            1
+          ],
+          "actual": [
+            0,
+            0,
+            4,
+            4,
+            1,
+            1,
+            5,
+            5,
+            2,
+            2,
+            3,
+            3,
+            0,
+            0,
+            4,
+            4,
+            5,
+            5,
+            1,
+            1
+          ]
+        }
+      }
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [
+            0,
+            11,
+            2,
+            11,
+            4
+          ],
+          "actual": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        "spawnB": {
+          "display": [
+            4,
+            11,
+            5,
+            11,
+            0
+          ],
+          "actual": [
+            4,
+            5,
+            0,
+            1,
+            2
+          ]
+        },
+        "spawnC": {
+          "display": [
+            2,
+            11,
+            3,
+            11,
+            5
+          ],
+          "actual": [
+            2,
+            3,
+            4,
+            5,
+            0
+          ]
+        },
+        "spawnD": {
+          "display": [
+            3,
+            11,
+            1,
+            11,
+            5
+          ],
+          "actual": [
+            3,
+            0,
+            1,
+            4,
+            5
+          ]
+        }
+      },
+      "mechanics": {
+        "hiddenColor": true
+      }
+    },
+{
+      "levelId": 21,
+ "box":{
+      "trayA":null,
+      "trayB":null,
+      "trayC":null,
+      "trayD":{
+          "positionA": {
+          "display": [
+            0,
+            0,
+            11,
+            11,
+            2,
+            2,
+            11,
+            11,
+            4,
+            4,
+            11,
+            11,
+            1,
+            1,
+            3,
+            3,
+            5,
+            5,
+            0,
+            0,
+            2,
+            2,
+            4,
+            4
+          ],
+          "actual": [
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            1,
+            1,
+            3,
+            3,
+            5,
+            5,
+            0,
+            0,
+            2,
+            2,
+            4,
+            4
+          ]
+        },
+          "positionB": {
+          "display": [
+            1,
+            1,
+            11,
+            11,
+            3,
+            3,
+            11,
+            11,
+            5,
+            5,
+            11,
+            11,
+            0,
+            0,
+            2,
+            2,
+            4,
+            4,
+            1,
+            1,
+            3,
+            3,
+            5,
+            5
+          ],
+          "actual": [
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            0,
+            0,
+            0,
+            0,
+            2,
+            2,
+            4,
+            4,
+            1,
+            1,
+            3,
+            3,
+            5,
+            5
+          ]
+        }
+,
+          "positionC":  {
+          "display": [
+            2,
+            2,
+            11,
+            11,
+            4,
+            4,
+            11,
+            11,
+            0,
+            0,
+            11,
+            11,
+            3,
+            3,
+            5,
+            5,
+            1,
+            1,
+            2,
+            2,
+            4,
+            4,
+            0,
+            0
+          ],
+          "actual": [
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            0,
+            0,
+            1,
+            1,
+            3,
+            3,
+            5,
+            5,
+            1,
+            1,
+            2,
+            2,
+            4,
+            4,
+            0,
+            0
+          ]
+        }
+,
+          "positionD": {
+          "display": [
+            3,
+            3,
+            11,
+            11,
+            5,
+            5,
+            11,
+            11,
+            1,
+            1,
+            11,
+            11,
+            4,
+            4,
+            0,
+            0,
+            2,
+            2,
+            3,
+            3,
+            5,
+            5,
+            1,
+            1
+          ],
+          "actual": [
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            4,
+            4,
+            0,
+            0,
+            2,
+            2,
+            3,
+            3,
+            5,
+            5,
+            1,
+            1
+          ]
+        }
+      }
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [
+            0,
+            11,
+            2,
+            11,
+            4,
+            1
+          ],
+          "actual": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "spawnB": {
+          "display": [
+            1,
+            11,
+            3,
+            11,
+            5,
+            0
+          ],
+          "actual": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+          ]
+        },
+        "spawnC": {
+          "display": [
+            2,
+            11,
+            4,
+            11,
+            0,
+            3
+          ],
+          "actual": [
+            2,
+            3,
+            4,
+            5,
+            0,
+            1
+          ]
+        },
+        "spawnD": {
+          "display": [
+            3,
+            11,
+            5,
+            11,
+            1,
+            4
+          ],
+          "actual": [
+            3,
+            4,
+            5,
+            0,
+            1,
+            2
+          ]
+        }
+      },
+      "mechanics": {
+        "hiddenColor": true
+      }
+    },
+ {
+      "levelId": 22,
+       "box":{
+      "trayA":null,
+      "trayB":null,
+      "trayC":null,
+      "trayD":{
+          "positionA": {
+          "display": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            11,
+            11,
+            4,
+            4,
+            11,
+            11,
+            0,
+            0,
+            11,
+            11,
+            3,
+            3,
+            11,
+            11,
+            11,
+            11
+          ],
+          "actual": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            0,
+            0,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5
+          ]
+        },
+          "positionB":{
+          "display": [
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            11,
+            11,
+            5,
+            5,
+            11,
+            11,
+            1,
+            1,
+            11,
+            11,
+            4,
+            4,
+            11,
+            11,
+            11,
+            11
+          ],
+          "actual": [
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            0,
+            0,
+            1,
+            1,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            0,
+            0
+          ]
+        }
+
+,
+          "positionC":  {
+          "display": [
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            4,
+            4,
+            11,
+            11,
+            0,
+            0,
+            11,
+            11,
+            2,
+            2,
+            11,
+            11,
+            5,
+            5,
+            11,
+            11,
+            11,
+            11
+          ],
+          "actual": [
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            4,
+            4,
+            5,
+            5,
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+          "positionD": {
+          "display": [
+            3,
+            3,
+            4,
+            4,
+            4,
+            4,
+            5,
+            5,
+            11,
+            11,
+            1,
+            1,
+            11,
+            11,
+            3,
+            3,
+            11,
+            11,
+            0,
+            0,
+            11,
+            11,
+            11,
+            11
+          ],
+          "actual": [
+            3,
+            3,
+            4,
+            4,
+            4,
+            4,
+            5,
+            5,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            5,
+            5,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2
+          ]
+        }
+
+
+      }
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [
+            0,
+            11,
+            2,
+            11,
+            11,
+            5
+          ],
+          "actual": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "spawnB": {
+          "display": [
+            1,
+            11,
+            3,
+            11,
+            11,
+            0
+          ],
+          "actual": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+          ]
+        },
+        "spawnC": {
+          "display": [
+            2,
+            11,
+            4,
+            11,
+            11,
+            1
+          ],
+          "actual": [
+            2,
+            3,
+            4,
+            5,
+            0,
+            1
+          ]
+        },
+        "spawnD": {
+          "display": [
+            3,
+            11,
+            5,
+            11,
+            11,
+            2
+          ],
+          "actual": [
+            3,
+            4,
+            5,
+            0,
+            1,
+            2
+          ]
+        }
+      },
+      "mechanics": {
+        "hiddenColor": true
+      }
+    },
+
+ {
+      "levelId": 23,
+ "box":{
+      "trayA":null,
+      "trayB":null,
+      "trayC":null,
+      "trayD":{
+          "positionA":  {
+          "display": [
+            0,
+            0,
+            11,
+            11,
+            1,
+            1,
+            11,
+            11,
+            2,
+            2,
+            11,
+            11,
+            5,
+            5,
+            11,
+            11,
+            0,
+            0,
+            11,
+            11,
+            4,
+            4,
+            5,
+            5
+          ],
+          "actual": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            5,
+            5,
+            4,
+            4,
+            0,
+            0,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5
+          ]
+        },
+          "positionB": 
+{
+          "display": [
+            1,
+            1,
+            11,
+            11,
+            2,
+            2,
+            11,
+            11,
+            3,
+            3,
+            11,
+            11,
+            0,
+            0,
+            11,
+            11,
+            1,
+            1,
+            11,
+            11,
+            5,
+            5,
+            0,
+            0
+          ],
+          "actual": [
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            4,
+            4,
+            0,
+            0,
+            5,
+            5,
+            1,
+            1,
+            4,
+            4,
+            5,
+            5,
+            0,
+            0
+          ]
+        }
+,
+          "positionC": {
+          "display": [
+            2,
+            2,
+            11,
+            11,
+            3,
+            3,
+            11,
+            11,
+            4,
+            4,
+            11,
+            11,
+            1,
+            1,
+            11,
+            11,
+            2,
+            2,
+            11,
+            11,
+            0,
+            0,
+            1,
+            1
+          ],
+          "actual": [
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            4,
+            4,
+            4,
+            4,
+            5,
+            5,
+            1,
+            1,
+            0,
+            0,
+            2,
+            2,
+            5,
+            5,
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+,
+          "positionD": {
+          "display": [
+            3,
+            3,
+            11,
+            11,
+            4,
+            4,
+            11,
+            11,
+            5,
+            5,
+            11,
+            11,
+            2,
+            2,
+            11,
+            11,
+            3,
+            3,
+            11,
+            11,
+            1,
+            1,
+            2,
+            2
+          ],
+          "actual": [
+            3,
+            3,
+            4,
+            4,
+            4,
+            4,
+            5,
+            5,
+            5,
+            5,
+            0,
+            0,
+            2,
+            2,
+            1,
+            1,
+            3,
+            3,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2
+          ]
+        }
+
+
+      }
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [
+            0,
+            11,
+            11,
+            11,
+            4,
+            5
+          ],
+          "actual": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "spawnB": {
+          "display": [
+            1,
+            11,
+            11,
+            11,
+            5,
+            0
+          ],
+          "actual": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            0
+          ]
+        },
+        "spawnC": {
+          "display": [
+            2,
+            11,
+            11,
+            11,
+            0,
+            1
+          ],
+          "actual": [
+            2,
+            3,
+            4,
+            5,
+            0,
+            1
+          ]
+        },
+        "spawnD": {
+          "display": [
+            3,
+            11,
+            11,
+            11,
+            1,
+            2
+          ],
+          "actual": [
+            3,
+            4,
+            5,
+            0,
+            1,
+            2
+          ]
+        }
+      },
+      "mechanics": {
+        "hiddenColor": true
+      }
+    },
+
+ {
+      "levelId": 24,
+     "box":{
+      "trayA":null,
+      "trayB":null,
+      "trayC":null,
+      "trayD":{
+          "positionA":  {
+          "display": [
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            11,
+            11,
+            0,
+            0,
+            3,
+            3,
+            11,
+            11,
+            6,
+            6,
+            11,
+            11,
+            5,
+            5,
+            11,
+            11,
+            9,
+            9
+          ],
+          "actual": [
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            4,
+            4,
+            0,
+            0,
+            3,
+            3,
+            1,
+            1,
+            6,
+            6,
+            9,
+            9,
+            5,
+            5,
+            2,
+            2,
+            9,
+            9
+          ]
+        },
+          "positionB": {
+          "display": [
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            0,
+            0,
+            4,
+            4,
+            11,
+            11,
+            1,
+            1,
+            0,
+            0,
+            11,
+            11,
+            4,
+            4,
+            11,
+            11,
+            9,
+            9,
+            11,
+            11,
+            9,
+            9
+          ],
+          "actual": [
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            0,
+            0,
+            4,
+            4,
+            5,
+            5,
+            1,
+            1,
+            0,
+            0,
+            2,
+            2,
+            4,
+            4,
+            3,
+            3,
+            9,
+            9,
+            6,
+            6,
+            9,
+            9
+          ]
+        }
+,
+          "positionC":  {
+          "display": [
+            2,
+            2,
+            3,
+            3,
+            0,
+            0,
+            1,
+            1,
+            6,
+            6,
+            11,
+            11,
+            2,
+            2,
+            1,
+            1,
+            11,
+            11,
+            4,
+            4,
+            11,
+            11,
+            9,
+            9,
+            11,
+            11,
+            9,
+            9
+          ],
+          "actual": [
+            2,
+            2,
+            3,
+            3,
+            0,
+            0,
+            1,
+            1,
+            6,
+            6,
+            9,
+            9,
+            2,
+            2,
+            1,
+            1,
+            0,
+            0,
+            4,
+            4,
+            3,
+            3,
+            9,
+            9,
+            6,
+            6,
+            9,
+            9
+          ]
+        }
+,
+          "positionD": 
+{
+          "display": [
+            3,
+            3,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            6,
+            6,
+            11,
+            11,
+            3,
+            3,
+            2,
+            2,
+            11,
+            11,
+            1,
+            1,
+            11,
+            11,
+            6,
+            6,
+            11,
+            11,
+            9,
+            9
+          ],
+          "actual": [
+            3,
+            3,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            6,
+            6,
+            5,
+            5,
+            3,
+            3,
+            2,
+            2,
+            1,
+            1,
+            0,
+            0,
+            5,
+            5,
+            6,
+            6,
+            4,
+            4,
+            9,
+            9
+          ]
+        }
+      }
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [
+            0,
+            1,
+            2,
+            11,
+            11,
+            6,
+            9
+          ],
+          "actual": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            6,
+            9
+          ]
+        },
+        "spawnB": {
+          "display": [
+            1,
+            2,
+            3,
+            11,
+            11,
+            5,
+            9
+          ],
+          "actual": [
+            1,
+            2,
+            3,
+            0,
+            4,
+            5,
+            9
+          ]
+        },
+        "spawnC": {
+          "display": [
+            2,
+            3,
+            0,
+            11,
+            11,
+            6,
+            4
+          ],
+          "actual": [
+            2,
+            3,
+            0,
+            1,
+            6,
+            9,
+            4
+          ]
+        },
+        "spawnD": {
+          "display": [
+            3,
+            0,
+            1,
+            11,
+            11,
+            6,
+            9
+          ],
+          "actual": [
+            3,
+            0,
+            1,
+            2,
+            5,
+            6,
+            9
+          ]
+        }
+      },
+      "mechanics": {
+        "hiddenColor": true
+      }
+    },
+
+ {
+      "levelId": 25,
+ "box":{
+      "trayA":null,
+      "trayB":null,
+      "trayC":null,
+      "trayD":{
+          "positionA": {
+          "display": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            11,
+            11,
+            0,
+            0,
+            11,
+            11,
+            1,
+            1,
+            11,
+            11,
+            2,
+            2
+          ],
+          "actual": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2
+          ]
+        },
+          "positionB":  {
+          "display": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            11,
+            11,
+            1,
+            1,
+            11,
+            11,
+            2,
+            2,
+            11,
+            11,
+            3,
+            3
+          ],
+          "actual": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3
+          ]
+        }
+,
+          "positionC":  {
+          "display": [
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            11,
+            11,
+            2,
+            2,
+            11,
+            11,
+            3,
+            3,
+            11,
+            11,
+            0,
+            0
+          ],
+          "actual": [
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+,
+          "positionD": {
+          "display": [
+            3,
+            3,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            11,
+            11,
+            3,
+            3,
+            11,
+            11,
+            0,
+            0,
+            11,
+            11,
+            1,
+            1
+          ],
+          "actual": [
+            3,
+            3,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      }
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [
+            0,
+            1,
+            2,
+            11,
+            11,
+            11,
+            2
+          ],
+          "actual": [
+            0,
+            1,
+            2,
+            3,
+            0,
+            1,
+            2
+          ]
+        },
+        "spawnB": {
+          "display": [
+            1,
+            2,
+            3,
+            11,
+            11,
+            11,
+            3
+          ],
+          "actual": [
+            1,
+            2,
+            3,
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        "spawnC": {
+          "display": [
+            2,
+            3,
+            0,
+            11,
+            11,
+            11,
+            0
+          ],
+          "actual": [
+            2,
+            3,
+            0,
+            1,
+            2,
+            3,
+            0
+          ]
+        },
+        "spawnD": {
+          "display": [
+            3,
+            0,
+            1,
+            11,
+            11,
+            11,
+            1
+          ],
+          "actual": [
+            3,
+            0,
+            1,
+            2,
+            3,
+            0,
+            1
+          ]
+        }
+      },
+      "mechanics": {
+        "hiddenColor": true
+      }
+    },
+  {
+      "levelId": 26,
+       "box":{
+      "trayA":null,
+      "trayB":null,
+      "trayC":null,
+      "trayD":{
+          "positionA": {
+          "display": [
+            0,
+            0,
+            4,
+            4,
+            1,
+            1,
+            5,
+            5,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            0,
+            0,
+            1,
+            1,
+            5,
+            5,
+            2,
+            2,
+            3,
+            3,
+            6,
+            6,
+            9,
+            9
+          ],
+          "actual": [
+            0,
+            0,
+            4,
+            4,
+            1,
+            1,
+            5,
+            5,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            0,
+            0,
+            1,
+            1,
+            5,
+            5,
+            2,
+            2,
+            3,
+            3,
+            6,
+            6,
+            9,
+            9
+          ]
+        },
+          "positionB": {
+          "display": [
+            1,
+            1,
+            6,
+            6,
+            2,
+            2,
+            5,
+            5,
+            3,
+            3,
+            0,
+            0,
+            6,
+            6,
+            2,
+            2,
+            1,
+            1,
+            5,
+            5,
+            3,
+            3,
+            0,
+            0,
+            4,
+            4,
+            9,
+            9
+          ],
+          "actual": [
+            1,
+            1,
+            6,
+            6,
+            2,
+            2,
+            5,
+            5,
+            3,
+            3,
+            0,
+            0,
+            6,
+            6,
+            2,
+            2,
+            1,
+            1,
+            5,
+            5,
+            3,
+            3,
+            0,
+            0,
+            4,
+            4,
+            9,
+            9
+          ]
+        }
+,
+          "positionC":  {
+          "display": [
+            2,
+            2,
+            4,
+            4,
+            3,
+            3,
+            9,
+            9,
+            0,
+            0,
+            1,
+            1,
+            4,
+            4,
+            2,
+            2,
+            3,
+            3,
+            0,
+            0,
+            1,
+            1,
+            9,
+            9,
+            5,
+            5,
+            6,
+            6
+          ],
+          "actual": [
+            2,
+            2,
+            4,
+            4,
+            3,
+            3,
+            9,
+            9,
+            0,
+            0,
+            1,
+            1,
+            4,
+            4,
+            2,
+            2,
+            3,
+            3,
+            0,
+            0,
+            1,
+            1,
+            9,
+            9,
+            5,
+            5,
+            6,
+            6
+          ]
+        }
+,
+          "positionD": {
+          "display": [
+            3,
+            3,
+            9,
+            9,
+            0,
+            0,
+            6,
+            6,
+            1,
+            1,
+            2,
+            2,
+            9,
+            9,
+            3,
+            3,
+            0,
+            0,
+            6,
+            6,
+            1,
+            1,
+            2,
+            2,
+            4,
+            4,
+            5,
+            5
+          ],
+          "actual": [
+            3,
+            3,
+            9,
+            9,
+            0,
+            0,
+            6,
+            6,
+            1,
+            1,
+            2,
+            2,
+            9,
+            9,
+            3,
+            3,
+            0,
+            0,
+            6,
+            6,
+            1,
+            1,
+            2,
+            2,
+            4,
+            4,
+            5,
+            5
+          ]
+        }
+      }
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [
+            0,
+            4,
+            1,
+            5,
+            2,
+            6,
+            3
+          ],
+          "actual": [
+            0,
+            4,
+            1,
+            5,
+            2,
+            6,
+            3
+          ]
+        },
+        "spawnB": {
+          "display": [
+            1,
+            5,
+            2,
+            9,
+            3,
+            4,
+            0
+          ],
+          "actual": [
+            1,
+            5,
+            2,
+            9,
+            3,
+            4,
+            0
+          ]
+        },
+        "spawnC": {
+          "display": [
+            2,
+            6,
+            3,
+            4,
+            0,
+            5,
+            1
+          ],
+          "actual": [
+            2,
+            6,
+            3,
+            4,
+            0,
+            5,
+            1
+          ]
+        },
+        "spawnD": {
+          "display": [
+            3,
+            9,
+            0,
+            6,
+            1,
+            2,
+            9
+          ],
+          "actual": [
+            3,
+            9,
+            0,
+            6,
+            1,
+            2,
+            9
+          ]
+        }
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+
+ {
+      "levelId": 27,
+       "box":{
+      "trayA":null,
+      "trayB":null,
+      "trayC":null,
+      "trayD":{
+          "positionA": {
+          "display": [
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            4,
+            4,
+            5,
+            5,
+            5,
+            5,
+            6,
+            6,
+            9,
+            9,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            3,
+            3
+          ],
+          "actual": [
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            4,
+            4,
+            5,
+            5,
+            5,
+            5,
+            6,
+            6,
+            9,
+            9,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            3,
+            3
+          ]
+        },
+          "positionB": {
+          "display": [
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            0,
+            0,
+            5,
+            5,
+            5,
+            5,
+            6,
+            6,
+            6,
+            6,
+            9,
+            9,
+            4,
+            4,
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            0,
+            0
+          ],
+          "actual": [
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            0,
+            0,
+            5,
+            5,
+            5,
+            5,
+            6,
+            6,
+            6,
+            6,
+            9,
+            9,
+            4,
+            4,
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            0,
+            0
+          ]
+        }
+,
+          "positionC":  {
+          "display": [
+            2,
+            2,
+            3,
+            3,
+            0,
+            0,
+            1,
+            1,
+            6,
+            6,
+            6,
+            6,
+            9,
+            9,
+            9,
+            9,
+            4,
+            4,
+            5,
+            5,
+            2,
+            2,
+            3,
+            3,
+            0,
+            0,
+            1,
+            1
+          ],
+          "actual": [
+            2,
+            2,
+            3,
+            3,
+            0,
+            0,
+            1,
+            1,
+            6,
+            6,
+            6,
+            6,
+            9,
+            9,
+            9,
+            9,
+            4,
+            4,
+            5,
+            5,
+            2,
+            2,
+            3,
+            3,
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+,
+          "positionD": {
+          "display": [
+            3,
+            3,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            9,
+            9,
+            9,
+            9,
+            4,
+            4,
+            4,
+            4,
+            5,
+            5,
+            6,
+            6,
+            3,
+            3,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2
+          ],
+          "actual": [
+            3,
+            3,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            9,
+            9,
+            9,
+            9,
+            4,
+            4,
+            4,
+            4,
+            5,
+            5,
+            6,
+            6,
+            3,
+            3,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2
+          ]
+        }
+
+      }
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [
+            0,
+            1,
+            4,
+            2,
+            5,
+            3,
+            6
+          ],
+          "actual": [
+            0,
+            1,
+            4,
+            2,
+            5,
+            3,
+            6
+          ]
+        },
+        "spawnB": {
+          "display": [
+            1,
+            2,
+            5,
+            3,
+            6,
+            0,
+            9
+          ],
+          "actual": [
+            1,
+            2,
+            5,
+            3,
+            6,
+            0,
+            9
+          ]
+        },
+        "spawnC": {
+          "display": [
+            2,
+            3,
+            6,
+            0,
+            9,
+            1,
+            4
+          ],
+          "actual": [
+            2,
+            3,
+            6,
+            0,
+            9,
+            1,
+            4
+          ]
+        },
+        "spawnD": {
+          "display": [
+            3,
+            0,
+            9,
+            1,
+            4,
+            2,
+            5
+          ],
+          "actual": [
+            3,
+            0,
+            9,
+            1,
+            4,
+            2,
+            5
+          ]
+        }
+      },
+      "mechanics": {
+        "hiddenColor": false
+      }
+    },
+
+ {
+      "levelId": 28,
+      "box":{
+      "trayA":null,
+      "trayB":null,
+      "trayC":null,
+      "trayD":{
+          "positionA":{
+          "display": [
+            0,
+            0,
+            2,
+            2,
+            11,
+            11,
+            3,
+            3,
+            4,
+            4,
+            11,
+            11,
+            6,
+            6,
+            9,
+            9,
+            11,
+            11,
+            1,
+            1,
+            2,
+            2,
+            11,
+            11,
+            4,
+            4,
+            11,
+            11,
+            6,
+            6,
+            11,
+            11
+          ],
+          "actual": [
+            0,
+            0,
+            2,
+            2,
+            1,
+            1,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            6,
+            6,
+            9,
+            9,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            6,
+            6,
+            9,
+            9
+          ]
+        },
+          "positionB": 
+{
+          "display": [
+            1,
+            1,
+            3,
+            3,
+            11,
+            11,
+            2,
+            2,
+            5,
+            5,
+            11,
+            11,
+            4,
+            4,
+            9,
+            9,
+            11,
+            11,
+            2,
+            2,
+            3,
+            3,
+            11,
+            11,
+            5,
+            5,
+            11,
+            11,
+            9,
+            9,
+            11,
+            11
+          ],
+          "actual": [
+            1,
+            1,
+            3,
+            3,
+            0,
+            0,
+            2,
+            2,
+            5,
+            5,
+            6,
+            6,
+            4,
+            4,
+            9,
+            9,
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            6,
+            6,
+            9,
+            9,
+            0,
+            0
+          ]
+        }
+,
+          "positionC": {
+          "display": [
+            2,
+            2,
+            0,
+            0,
+            11,
+            11,
+            1,
+            1,
+            6,
+            6,
+            11,
+            11,
+            5,
+            5,
+            4,
+            4,
+            11,
+            11,
+            3,
+            3,
+            4,
+            4,
+            11,
+            11,
+            6,
+            6,
+            11,
+            11,
+            0,
+            0,
+            11,
+            11
+          ],
+          "actual": [
+            2,
+            2,
+            0,
+            0,
+            3,
+            3,
+            1,
+            1,
+            6,
+            6,
+            9,
+            9,
+            5,
+            5,
+            4,
+            4,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            6,
+            6,
+            9,
+            9,
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+,
+          "positionD": {
+          "display": [
+            3,
+            3,
+            1,
+            1,
+            11,
+            11,
+            0,
+            0,
+            9,
+            9,
+            11,
+            11,
+            6,
+            6,
+            5,
+            5,
+            11,
+            11,
+            4,
+            4,
+            5,
+            5,
+            11,
+            11,
+            9,
+            9,
+            11,
+            11,
+            1,
+            1,
+            11,
+            11
+          ],
+          "actual": [
+            3,
+            3,
+            1,
+            1,
+            2,
+            2,
+            0,
+            0,
+            9,
+            9,
+            4,
+            4,
+            6,
+            6,
+            5,
+            5,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            6,
+            6,
+            9,
+            9,
+            0,
+            0,
+            1,
+            1,
+            2,
+            2
+          ]
+        }
+      }
+      },
+      "trucks": {
+        "capacity": 4,
+        "spawnA": {
+          "display": [
+            0,
+            11,
+            2,
+            11,
+            11,
+            5,
+            11,
+            11
+          ],
+          "actual": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9
+          ]
+        },
+        "spawnB": {
+          "display": [
+            1,
+            11,
+            3,
+            11,
+            11,
+            6,
+            11,
+            11
+          ],
+          "actual": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            0
+          ]
+        },
+        "spawnC": {
+          "display": [
+            2,
+            11,
+            4,
+            11,
+            11,
+            9,
+            11,
+            11
+          ],
+          "actual": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            9,
+            0,
+            1
+          ]
+        },
+        "spawnD": {
+          "display": [
+            3,
+            11,
+            5,
+            11,
+            11,
+            0,
+            11,
+            11
+          ],
+          "actual": [
+            3,
+            4,
+            5,
+            6,
+            9,
+            0,
+            1,
+            2
+          ]
+        }
+      },
+      "mechanics": {
+        "hiddenColor": true,
+        "hiddenTruck": true,
+        "hiddenColorCode": 11
       }
     }
   ]
