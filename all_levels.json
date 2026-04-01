@@ -82,7 +82,8 @@
 			},
 			"trucks": {
 				"capacity": 4,
-				"spawnA": {
+				"spawnA": null,
+				"spawnB": {
 					"display": [
 						0,
 						1
@@ -92,7 +93,6 @@
 						1
 					]
 				},
-				"spawnB": null,
 				"spawnC": null,
 				"spawnD": null
 			},
