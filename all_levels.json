@@ -116,8 +116,7 @@
     },
     {
       "levelId": 3,
-      "laneSet": "A",
-      "splineVariant": 1,
+      "splineVariant": 3,
       "difficulty": "easy",
       "box": {
         "trayA": null,
