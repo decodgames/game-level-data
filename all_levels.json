@@ -232,15 +232,15 @@
       },
       "trucks": {
         "capacity": 4,
-        "spawnA": null,
-        "spawnB": {
+        "spawnA": {
           "display": [3,0,1,2,3],
           "actual": [3,0,1,2,3]
         },
-        "spawnC": {
+        "spawnB": {
           "display": [1,2,3,0,1],
           "actual": [1,2,3,0,1]
         },
+        "spawnC": null,
         "spawnD": null
       },
       "mechanics": {
@@ -274,12 +274,12 @@
           "display": [3,1,0,3,2],
           "actual": [3,1,0,3,2]
         },
-        "spawnB": null,
-        "spawnC": null,
-        "spawnD": {
+        "spawnB": {
           "display": [3,2,3,1,0],
           "actual": [3,2,3,1,0]
-        }
+        },
+        "spawnC": null,
+        "spawnD": null
       },
       "mechanics": {
         "hiddenColor": false
@@ -312,11 +312,11 @@
           "display": [1,1,0,3,2,1],
           "actual": [1,1,0,3,2,1]
         },
-        "spawnB": null,
-        "spawnC": {
+        "spawnB": {
           "display": [3,2,1,1,0,3],
           "actual": [3,2,1,1,0,3]
         },
+        "spawnC": null,
         "spawnD": null
       },
       "mechanics": {
@@ -350,12 +350,12 @@
           "display": [3,11,1,0],
           "actual": [3,2,1,0]
         },
-        "spawnB": null,
-        "spawnC": null,
-        "spawnD": {
+        "spawnB": {
           "display": [0,1,3,11],
           "actual": [0,1,3,2]
-        }
+        },
+        "spawnC": null,
+        "spawnD": null
       },
       "mechanics": {
         "hiddenColor": true
@@ -391,11 +391,11 @@
           "display": [3,1,11,11,0,11,11,1],
           "actual": [3,1,2,3,0,2,3,1]
         },
-        "spawnB": null,
-        "spawnC": {
+        "spawnB": {
           "display": [0,11,2,11],
           "actual": [0,2,2,3]
         },
+        "spawnC": null,
         "spawnD": null
       },
       "mechanics": {
@@ -432,15 +432,15 @@
           "display": [3,11,2,11],
           "actual": [3,2,2,3]
         },
-        "spawnB": null,
-        "spawnC": {
+        "spawnB": {
           "display": [0,11,1,11],
           "actual": [0,2,1,3]
         },
-        "spawnD": {
+        "spawnC": {
           "display": [2,3,11,1],
           "actual": [2,3,0,1]
-        }
+        },
+        "spawnD": null
       },
       "mechanics": {
         "hiddenColor": true
@@ -472,19 +472,19 @@
       },
       "trucks": {
         "capacity": 4,
-        "spawnA": null,
-        "spawnB": {
+        "spawnA": {
           "display": [0,11,2,11],
           "actual": [0,3,2,3]
         },
-        "spawnC": {
+        "spawnB": {
           "display": [2,11,3,11],
           "actual": [2,1,3,2]
         },
-        "spawnD": {
+        "spawnC": {
           "display": [3,11,0,11],
           "actual": [3,2,0,1]
-        }
+        },
+        "spawnD": null
       },
       "mechanics": {
         "hiddenColor": true
@@ -520,15 +520,15 @@
           "display": [0,2,11,2,0],
           "actual": [0,2,3,2,0]
         },
-        "spawnB": null,
-        "spawnC": {
+        "spawnB": {
           "display": [3,1,0,11,2],
           "actual": [3,1,0,2,2]
         },
-        "spawnD": {
+        "spawnC": {
           "display": [2,3,11,1],
           "actual": [2,3,3,1]
-        }
+        },
+        "spawnD": null
       },
       "mechanics": {
         "hiddenColor": true
@@ -560,19 +560,19 @@
       },
       "trucks": {
         "capacity": 4,
-        "spawnA": null,
-        "spawnB": {
+        "spawnA": {
           "display": [4,11,1,11,2],
           "actual": [4,4,1,0,2]
         },
-        "spawnC": {
+        "spawnB": {
           "display": [3,11,4,1,11],
           "actual": [3,4,4,1,2]
         },
-        "spawnD": {
+        "spawnC": {
           "display": [0,11,3,11,4,1],
           "actual": [0,2,3,4,4,1]
-        }
+        },
+        "spawnD": null
       },
       "mechanics": {
         "hiddenColor": true
@@ -604,19 +604,19 @@
       },
       "trucks": {
         "capacity": 4,
-        "spawnA": null,
-        "spawnB": {
+        "spawnA": {
           "display": [2,11,0,11,1],
           "actual": [2,4,0,3,1]
         },
-        "spawnC": {
+        "spawnB": {
           "display": [1,11,3,11,4],
           "actual": [1,0,3,4,4]
         },
-        "spawnD": {
+        "spawnC": {
           "display": [3,11,0,11,2,4],
           "actual": [3,2,0,1,2,4]
-        }
+        },
+        "spawnD": null
       },
       "mechanics": {
         "hiddenColor": true
@@ -652,15 +652,15 @@
           "display": [0,1,2,11,11],
           "actual": [0,1,2,4,3]
         },
-        "spawnB": null,
-        "spawnC": {
+        "spawnB": {
           "display": [3,0,1,11,11],
           "actual": [3,0,1,4,2]
         },
-        "spawnD": {
+        "spawnC": {
           "display": [2,3,4,11,11,1],
           "actual": [2,3,4,4,0,1]
-        }
+        },
+        "spawnD": null
       },
       "mechanics": {
         "hiddenColor": true
@@ -699,15 +699,15 @@
           "display": [0,11,2,3,11,4],
           "actual": [0,1,2,3,4,4]
         },
-        "spawnB": null,
-        "spawnC": {
+        "spawnB": {
           "display": [1,11,3,4,11,0],
           "actual": [1,2,3,4,4,0]
         },
-        "spawnD": {
+        "spawnC": {
           "display": [2,11,4,0,11,1],
           "actual": [2,3,4,0,4,1]
-        }
+        },
+        "spawnD": null
       },
       "mechanics": {
         "hiddenColor": true
@@ -741,19 +741,19 @@
       },
       "trucks": {
         "capacity": 4,
-        "spawnA": null,
-        "spawnB": {
+        "spawnA": {
           "display": [0,11,2,11,4],
           "actual": [0,1,2,3,4]
         },
-        "spawnC": {
+        "spawnB": {
           "display": [2,0,1,2,11],
           "actual": [2,0,1,2,3]
         },
-        "spawnD": {
+        "spawnC": {
           "display": [4,2,11,1,11,11],
           "actual": [4,2,0,1,2,3]
-        }
+        },
+        "spawnD": null
       },
       "mechanics": {
         "hiddenColor": true
