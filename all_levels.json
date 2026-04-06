@@ -3,6 +3,7 @@
     {
       "levelId": 1,
       "laneSet": "A",
+      "splineVariant": 1,
       "difficulty": "easy",
       "box": {
         "trayA": {
@@ -49,6 +50,7 @@
     {
       "levelId": 2,
       "laneSet": "A",
+      "splineVariant": 2,
       "difficulty": "easy",
       "box": {
         "trayA": {
@@ -114,7 +116,8 @@
     },
     {
       "levelId": 3,
-      "laneSet": "B",
+      "laneSet": "A",
+      "splineVariant": 1,
       "difficulty": "easy",
       "box": {
         "trayA": null,
