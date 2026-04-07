@@ -3,6 +3,7 @@
     {
       "levelId": 1,
       "splineVariant": 1,
+      "forkliftSpline": 1,
       "difficulty": "easy",
       "box": {
         "trayA": {
@@ -35,6 +36,7 @@
     {
       "levelId": 2,
       "splineVariant": 2,
+      "forkliftSpline": 2,
       "difficulty": "easy",
       "box": {
         "trayA": {
@@ -66,6 +68,7 @@
     },
     {
       "levelId": 3,
+      "forkliftSpline": 1,
       "splineVariant": 3,
       "difficulty": "easy",
       "box": {
@@ -132,7 +135,8 @@
       "mechanics": {
         "hiddenColor": false
       },
-      "splineVariant": 4
+      "splineVariant": 4,
+      "forkliftSpline": 2
     },
     {
       "levelId": 5,
@@ -170,7 +174,8 @@
       "mechanics": {
         "hiddenColor": false
       },
-      "splineVariant": 1
+      "splineVariant": 1,
+      "forkliftSpline": 3
     },
     {
       "levelId": 6,
