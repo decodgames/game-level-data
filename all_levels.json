@@ -117,7 +117,7 @@
     {
       "levelId": 3,
       "forkliftSpline": 2,
-      "splineVariant": 2,
+      "splineVariant": 3,
       "difficulty": "easy",
       "box": {
         "trayA": null,
