@@ -116,7 +116,7 @@
     },
     {
       "levelId": 3,
-      "forkliftSpline": 1,
+      "forkliftSpline": 2,
       "splineVariant": 3,
       "difficulty": "easy",
       "box": {
@@ -285,7 +285,7 @@
       "mechanics": {
         "hiddenColor": false
       },
-      "splineVariant": 4,
+      "splineVariant": 1,
       "forkliftSpline": 2
     },
     {
