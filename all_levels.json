@@ -285,8 +285,8 @@
       "mechanics": {
         "hiddenColor": false
       },
-      "splineVariant": 1,
-      "forkliftSpline": 2
+      "splineVariant": 4,
+      "forkliftSpline": 1
     },
     {
       "levelId": 5,
