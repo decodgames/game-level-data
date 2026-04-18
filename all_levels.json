@@ -7378,7 +7378,7 @@
     {
       "levelId": 34,
       "difficulty": "easy",
-      "laneSet": "D",
+      "laneSet": "Merge",
       "box": {
         "trayA": null,
         "trayB": null,
