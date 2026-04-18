@@ -120,8 +120,7 @@
       "splineVariant": 3,
       "difficulty": "easy",
       "box": {
-        "trayA": null,
-        "trayB": {
+        "trayA": {
           "positionA": {
             "display": [
               0,
@@ -129,20 +128,8 @@
               2,
               2,
               1,
-              1
-            ],
-            "actual": [
-              0,
-              0,
-              2,
-              2,
               1,
-              1
-            ]
-          },
-          "positionB": {
-            "display": [
-              0,
+               0,
               0,
               2,
               2,
@@ -155,9 +142,16 @@
               2,
               2,
               1,
+              1,
+               0,
+              0,
+              2,
+              2,
+              1,
               1
             ]
-          },
+          }
+        "trayB": null,
           "positionC": null,
           "positionD": null
         },
